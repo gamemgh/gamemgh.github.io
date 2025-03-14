@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.bat linguist-detectable
+*.toml linguist-detectable
+*.yaml linguist-detectable
+*.yml linguist-detectable
+*.md linguist-detectable

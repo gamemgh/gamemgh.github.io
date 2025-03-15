@@ -80,51 +80,51 @@ This game will provide you with different mini games and endless hours of gamepl
 <p id="totaldownload"></p>
 <script>
 let totaldownload = 0;
-get_gh_release_info("harrymkt", "mgh").then(v => {
+get_gh_release_info("gamemgh", "gamemgh.github.io").then(v => {
 	document.getElementById("version").textContent = `Version: ${v}`;
 });
 
-get_gh_release_info("harrymkt", "mgh", "latest", "published_at").then(v => {
+get_gh_release_info("gamemgh", "gamemgh.github.io", "latest", "published_at").then(v => {
 	document.getElementById("version_date").textContent = `Updated on: ${local_datetime_string(v)}`;
 });
 </script>
 <p>All the links are permanent. Note: all the download counts are calculated only for the latest version.</p>
 <p>download for:</p>
 <ul>
-<li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh.zip">Windows</a><span id="dcw"></span><script>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.zip">Windows</a><span id="dcw"></span><script>
 const dcw = document.getElementById("dcw");
 if (dcw) {
-	get_gh_asset_info("harrymkt", "mgh", "mgh.zip").then(t => {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.zip").then(t => {
 		dcw.textContent = `Download count: ${t.download_count}`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
 	});
 }
 </script></li>
-<li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh.apk">Android</a><span id="dca"></span><script>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.apk">Android</a><span id="dca"></span><script>
 const dca = document.getElementById("dca");
 if (dca) {
-	get_gh_asset_info("harrymkt", "mgh", "mgh.apk").then(t => {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.apk").then(t => {
 		dca.textContent = `Download count: ${t.download_count}`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
 	});
 }
 </script></li>
-<li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh-linux.zip">Linux</a><span id="dcl"></span><script>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh-linux.zip">Linux</a><span id="dcl"></span><script>
 const dcl = document.getElementById("dcl");
 if (dcl) {
-	get_gh_asset_info("harrymkt", "mgh", "mgh-linux.zip").then(t => {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh-linux.zip").then(t => {
 		dcl.textContent = `Download count: ${t.download_count}`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
 	});
 }
 </script></li>
-<li><a href="https://github.com/harrymkt/mgh/releases/latest/download/mgh.app.zip">Mac OS</a><span id="dcmos"></span><script>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.app.zip">Mac OS</a><span id="dcmos"></span><script>
 const dcmos = document.getElementById("dcmos");
 if (dcmos) {
-	get_gh_asset_info("harrymkt", "mgh", "mgh.app.zip").then(t => {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.app.zip").then(t => {
 		dcmos.textContent = `Download count: ${t.download_count}`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;

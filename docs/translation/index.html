@@ -5,19 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://gamemgh.github.io/scripts/theme.js"></script>
 <link rel="stylesheet" href="https://gamemgh.github.io/css/theme.css">
-<meta name="robots" content="index, follow"><meta property="og:url" content="https://gamemgh.github.io/docs/blackjack/shortcuts/">
+<meta name="robots" content="index, follow"><meta property="og:url" content="https://gamemgh.github.io/docs/translation/">
 <meta property="og:site_name" content="Mini Games Hub">
-<meta property="og:title" content="Shortcuts of Blackjack">
+<meta property="og:title" content="Translation">
 <meta property="og:locale" content="en">
 <meta property="og:type" content="article">
 <meta property="article:section" content="docs">
-<meta itemprop="name" content="Shortcuts of Blackjack">
-<meta itemprop="wordCount" content="79">
-<link rel="canonical" href="https://gamemgh.github.io/docs/blackjack/shortcuts/">
+<meta itemprop="name" content="Translation">
+<meta itemprop="wordCount" content="185">
+<link rel="canonical" href="https://gamemgh.github.io/docs/translation/">
 <link rel="icon" href="https://gamemgh.github.io/favicon.ico" type="image/x-icon">
 <script src="https://gamemgh.github.io/scripts/functions.js"></script>
 <script src="https://gamemgh.github.io/scripts/footer.js"></script>
-<title>Shortcuts of Blackjack – Documentation – Mini Games Hub</title>
+<title>Translation – Documentation – Mini Games Hub</title>
 </head>
 <body>
 <p><a href="#mainc" class="skip-link">Skip to main content</a></p>
@@ -47,7 +47,7 @@
 <h2>Documentation</h2>
 <ul style="list-style-type:none;">
 <li><a href="/docs/menu-shortcuts/" >Menu Shortcuts</a></li>
-<li><a href="/docs/translation/" >Translation</a></li>
+<li><a href="/docs/translation/" aria-current="page">Translation</a></li>
 </ul>
 <h3 id="endless-battle-mini-game">Endless Battle (Mini Game)</h3>
 <ul style="list-style-type:none;">
@@ -57,7 +57,7 @@
 <h3 id="blackjack-mini-game">Blackjack (Mini Game)</h3>
 <ul style="list-style-type:none;">
 <li><a href="/docs/blackjack/about/" >About Blackjack</a></li>
-<li><a href="/docs/blackjack/shortcuts/" aria-current="page">Shortcuts of Blackjack</a></li>
+<li><a href="/docs/blackjack/shortcuts/" >Shortcuts of Blackjack</a></li>
 </ul>
 <h3 id="dice-match-mini-game">Dice Match (Mini Game)</h3>
 <ul style="list-style-type:none;">
@@ -71,28 +71,22 @@
 </ul>
 </nav>
 <main id="mainc" data-pagefind-body>
-<h1 id="title">Shortcuts of Blackjack</h1>
+<h1 id="title">Translation</h1>
+<p>To translate, copy the English files and folders (en). For the most update English version we recommend <a href="https://github.com/gamemgh/langs/releases/download/lang/en.zip">downloading from this link</a>.</p>
+<p>Note: config.toml is the file require to provide you and your language information.</p>
+<h2 id="updated-keys">Updated keys</h2>
+<p>English translations might have new keys or existing keys updated. To view the updated keys ordered by date, visit <a href="https://github.com/gamemgh/langs/blob/main/keys.md">updated translation keys page</a></p>
+<p>If there is a new file added you have to copy that new file. Otherwise, if existing or new keys are updated, you have to look at above link for the list (just remember the last date you downloaded English file). Carefully copy each updated or new keys if the file already exists.</p>
+<h2 id="config-file">Config file</h2>
+<p>Config file has the following keys:</p>
+<p>Main keys; these are keys that are directly put at the top of the file:</p>
 <ul>
-<li>Up and Down arrows: Navigates through the elements.
-<ul>
-<li>On Android, swipe left and right.</li>
+<li><code>name</code>: Your language full name</li>
 </ul>
-</li>
-<li>Tab and Shift+Tab: Moves through available game tab, player, computer, default. This change will switch cards navigated with navigation keys, for example, your cards will be shown in player tab.
+<p>Author keys; the following is a list of keys that must be put in the <code>author</code> section:</p>
 <ul>
-<li>On Android, swipe left and right with 2 fingers.</li>
-</ul>
-</li>
-<li>Enter: Performs the selected operation, eg new game button.
-<ul>
-<li>On Android, double tap with 1 finger.</li>
-</ul>
-</li>
-<li>Escape: Exit the game.
-<ul>
-<li>On Android, click back button.</li>
-</ul>
-</li>
+<li><code>name</code>: Your name or group of names.</li>
+<li><code>homepage</code>: Your website, or contact link, or email. If it is email, start with the prefix <code>mailto:</code> before your email.</li>
 </ul>
 
 </main>

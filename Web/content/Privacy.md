@@ -28,7 +28,7 @@ The following information may be collected including explanation of whether they
 ### We may collect your name, and optionally email or home page (website), or other necessary contact details
 - This happens when you contribute, translate, or any way that involves in the contributions with the game
 - This is collected to display in the contributions list, translators, or other categories.
-- This is mostly collected for permanent. But in the case of translation, this will be collected as long as one or more languages exist that are your translations, and up to the next update of the website after no more languages that you have translated is available.
+- This is primarily collected permanently. However, for translations, it will be retained as long as at least one of your translated languages exists. Once no translated languages remain, the data will be kept until the next website update.
 - If you ask to delete the information, we would comply.
 
 ## Use of information

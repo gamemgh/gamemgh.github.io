@@ -24,3 +24,11 @@ Main keys; these are keys that are directly put at the top of the file:
 Author keys; the following is a list of keys that must be put in the `author` section:
 - `name`: Your name or group of names.
 - `homepage`: Your website, or contact link, or email. If it is email, start with the prefix `mailto:` before your email.
+
+# Translation Policy{#policy}
+We do not verify a full translation because we do not speak every language. This is why the web pages are not translated to insure maximum readability.
+
+When translating, note the following:
+- Translations must proceed exactly as written in above documentation.
+- Only config.toml is fully subject to Verification, and you must take responsibility to keep your language translations up to date.
+- The languages are deamed outdated and will be removed if they are not updated within a year of the latest game release. Notifications will be sent to the channels before their removal.

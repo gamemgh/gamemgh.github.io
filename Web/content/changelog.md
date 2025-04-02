@@ -1,7 +1,21 @@
 ---
-title: "Mini Games Hub Changes"
+title: "Multi Games Hoard Changes"
 ---
-# Mini Games Hub Changes
+# Multi Games Hoard Changes
+## New in version 0.0.9 (build 2025.04.02)
+- Changed the name to Multi Games Hoard to resolve copyright name and DMCA issues. This change does not affect players much though, because the website and general short form of the game's name is left untouched. Note: to get your data back, go to appdata folder, then rename the previous game's name folder to MGH, then put it in a folder called HarryMK. You will need to create that folder, or you can also open the game so it will automatically create for you then you can copy the folder and rename it.
+- Added Statistics Menu to display your statistics. Thanks "Lamar" for the suggestion. The number of available Statistics is currently small but will be expanded in the future.
+- Added 2 questions when the English language does not exist in the folder. This means that the English folder is not required now, but these questions will be constantly asked every time you run the game. This is a temporary issue to resolve a Mac OS directory checking issue, so it might be taken away in the future, because English should be there to replace the keys that are not translated in your language, either it is outdated or the keys do not exist. There is also an option in the settings to disable this warning, but this option is never translated.
+	1. Firstly, before asking questions, it will display an alert box warning you about the cause.
+	2. Next, it will ask whether or not to open the download page to download the English language.
+	3. Finally, it will ask whether or not to continue anyway.
+- Fixed the bug where you do not get more than 4 times your total points worth of currency in Archery mini game, now you will get up to the maximum of 10 times your total points worth of currency  as documented.
+- Added a new magic spell called "Trophy Energy" which increases your magic energy faster for seconds. This spell will be able to use in other future magic games as well. How many times faster it will increase your energy as well as how many seconds it will last will be determined by the mini game you play. In Endless Battle, for example, it will increase your magic energy 2 times faster for 20 seconds.
+- Language Downloader now includes information of each language's name and its author name if available.
+- Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability:
+	- Enemy voices will now randomize depending on how much voices the enemy has. Thanks "Blue Ken Sunshine" for the suggestion!
+	- Enemies now possess the capacity for mutual combat; they will attack and eliminate each other if within attack range, but do not actively move towards each other to initiate such engagements. You can exploit this by strategically positioning enemies. For example, by moving around a combat area - to the right, then left, then back again - you can manipulate enemy proximity, causing them to attack each other, thus reducing the overall threat. When you think their health is low enough, for instance, you can shoot them once, avoiding 2 bullets.
+
 ## New in version 0.0.8 (build 2025.03.15)
 - The game will no longer run if the fallback language (en) cannot be found in the folder.
 - Translation languages now require config.toml file be present in the root folder of the language. Copy the config.toml from English language (en) and replace with your own configuration values. See the translations documentation first for more information if you are unsure about it.

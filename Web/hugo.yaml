@@ -1,6 +1,6 @@
 cleanDestinationDir: true
 publishDir: HTML
-title: "Mini Games Hub"
+title: "Multi Games Hoard"
 baseURL: "https://gamemgh.github.io"
 theme: hguinav
 taxonomies:

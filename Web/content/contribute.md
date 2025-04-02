@@ -5,7 +5,7 @@ title: Contributing
 ## Translation
 You can contribute by translating the game in your language if it does not exist.
 
-Please see the [translation documentation]({{% relref "docs/translation.md" %}}). Also, review the [translation policy]({{% relref "docs/translation.md#policy" %}}) found there in the translation documentation.
+Please see the [translation documentation]({{% relref "docs/translation.md" %}}). Also, review the [translation policy]({{% relref "docs/translation.md#policy" %}}) found there in the translation documentation before you start translating.
 
 ## Documentation
 You can contribute documentation if you have GitHub knowledge.

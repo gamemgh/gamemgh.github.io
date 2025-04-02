@@ -5,7 +5,7 @@ menu:
     weight: 1
 ---
 # %title%
-Welcome to Mini Games Hub, an offline set of many mini games bundled into one game for visually impaired!
+Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!
 
 **Warning!** Do not play games for a long time which could potentially affect your work. Play games only to get fun for a while, and don't let it affects your work!
@@ -49,4 +49,4 @@ download for:
 - [Mac OS]({{< dlurl file="mgh.app.zip" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh.app.zip" >}}
 
 ## Donation
-This game is completely free. When we speak free, it's a complete free. No fees. However, if you love this game and want to buy me a coffee, you can donate via [PayPal](https://paypal.me/harrymk64), again thanks if you do so, I'd be appreciated!
+This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate via [PayPal](https://paypal.me/harrymk64), again thanks if you do so, I would be appreciated!

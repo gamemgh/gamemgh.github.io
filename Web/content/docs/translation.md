@@ -30,7 +30,7 @@ Author keys; the following is a list of keys that must be put in the `author` se
 # Translation Policy{#policy}
 We do not verify a full translation because we do not speak every language. This is why the web pages are not translated to insure maximum readability.
 
-When translating, note the following:
+However, note the following things when translating:
 - Translations must proceed exactly as written in above documentation.
 - Only config.toml is fully subject to Verification, and you  are responsible to keep your language translations up to date. However, this does not mean you can put unnecessary things in the translations. If we receive reports from players about the translation, that language might get removed.
 - The languages are deamed outdated and will be removed if they are not updated within 3 months of the latest game release. Notifications will be sent to the channels 2 weeks before their removal.

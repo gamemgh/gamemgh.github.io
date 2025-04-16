@@ -8,7 +8,7 @@ menu:
 Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!
 
-**Warning!** Do not play games for a long time which could potentially affect your work. Play games only to get fun for a while, and don't let it affects your work!
+**Warning!** Do not play games for a long time which could potentially affect your work. Play games only to get fun for a while, and do not let it affects your work!
 
 If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 
@@ -17,7 +17,7 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 - 3D; HRTF, or Head Related Transform Function, allows you to play the game in a real 3D environment. As such, headphone or 3D speakers is recommended.
 - Multilingual; play the game in  multiple languages translated by players. At the moment, there {{< langlen "is %l% translated language" "are %l% translated languages" >}} available, with more to come.
 - No visual; accessibility is only what we have. Unfortunately, vision is not one of them.
-- Play directly with your screen reader. Are you advance one? Play the game with your screen reader speech off!
+- Play directly with your screen reader.
 - Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
 - Documentation open Source; contribute to documentations if they are out of date or have not been written.
 - Portability; the game is portable. Extract the zip and start playing!
@@ -26,7 +26,7 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 ## Requirements and Recommendations{#requirements}
 - Operating system: Windows, Linux, Mac OS, Android.
 - 64 bit system is required.
-- 1 GB ram, 2 GB's recommended.
+- 1 GB ram, 2 GB is recommended.
 - Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
 - Headphones or speakers; optional but recommended. Again, this depends on the mini game you play.
 - A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like Endless Battle. Keyboard requirement will be clearly documented in about section of each mini game.

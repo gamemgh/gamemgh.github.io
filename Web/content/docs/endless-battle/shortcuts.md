@@ -4,7 +4,7 @@ weight: 10
 layout: doc
 ---
 # %title%
-There are large number of shortcuts that are used within the game, and thus they are divided into categories.
+There are a large number of shortcuts that are used within the game, and thus they are divided into categories.
 
 ## Movement and Navigation
 - Q: Turn left 45 degrees.
@@ -15,8 +15,6 @@ There are large number of shortcuts that are used within the game, and thus they
 	- Combine with Shift key will turn by 90 degrees, Android touch not available.
 - S: Turn by a full 180 degrees, Android touch not available.
 - F: Checks direction.
-- C: Checks coordinates.
-	- On Android, swipe down with 3 fingers.
 - Spacebar: Jumps.
 	- On Android, swipe down with 2 fingers.
 - Arrow keys: Move around the map. Holding down one of them will move continuously to that direction.

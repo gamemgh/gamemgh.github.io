@@ -4,7 +4,7 @@ weight: 1
 layout: doc
 ---
 # %title%
-Endless Battle is a 3D shooting game. This is the first game ever available on Mini Games Hub, because the initial idea is to develop Endless Battle but then got transfered into Mini Games Hub, with this game being the first to present.
+Endless Battle is a 3D shooting game. This is the first game ever available on Multi Games Hoard and is the largest mini game in this collection, because the initial idea is to develop Endless Battle but then got transfered into Mini Games Hub, with this game being the first to present.
 
 ## Features
 Endless Battle advertises the following features:

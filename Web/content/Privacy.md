@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2025-03-11T22:13:00+06:30
+date: 2025-04-20T22:00:00+06:30
 menu:
   main:
     weight: 3000
@@ -20,15 +20,15 @@ The following information may be collected including explanation of whether they
 - Deletion request is not available.
 
 ### Your IP address may be logged
-- This happens when you visit the website and is logged by GitHub (the provider of this website).
+- This happens when you visit the website and is logged by [GitHub](https://github.com) (the provider of this website).
 - This is possibly collected for stability of the website and to reduce spam.
 - The time of which the information will be kept is not available.
 - Deletion request is not available.
 
 ### We may collect your name, and optionally email or home page (website), or other necessary contact details
-- This happens when you contribute, translate, or any way that involves in the contributions with the game
-- This is collected to display in the contributions list, translators, or other categories. These informations may be displayed with or without your knowledge depending on the case.
-- This is primarily collected permanently. However, for translations, it will be retained as long as at least one of your translated languages exists.
+- This happens when you [contribute]({{% relref "contribute.md" %}}), [translate]({{% relref "docs/translation.md" %}}), or any way that involves in the contributions with the game
+- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), [translators]({{% relref "contributors.md#langs" %}}), or other categories. These informations may be displayed with or without your knowledge depending on the case.
+- This is primarily collected permanently. However, for translations, it will be retained as long as at least one of your translated languages exists. Translation also has its own [policy]({{% relref "docs/translation.md#policy" %}}) and is thus advised to review it as well.
 - If you ask to delete the information, we would comply, but in the case of translation languages, they may be removed or you will be asked to change the name to something else.
 
 ## Use of information

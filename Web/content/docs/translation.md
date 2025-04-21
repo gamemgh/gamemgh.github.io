@@ -20,6 +20,7 @@ Config file has the following keys:
 
 Main keys; these are keys that are directly put at the top of the file:
 - `name`(required): Your language full name.
+- `lastmod`(optional): The last modification date in `yyyy-mm-dd` format. This helps to determine the update of your language. You can also leave this key unwritten, it will be set to 0-0-0 if this is the case.
 
 Author keys; the following is a list of keys that must be put in the `author` section:
 - `name`(required): Your name or group of names.

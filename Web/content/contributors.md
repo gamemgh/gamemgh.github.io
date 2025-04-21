@@ -14,5 +14,5 @@ This is the list of contributors who helped the game better. Looking for ways to
 - Dao Duc Trung (the owner of [ddt.one](https://ddt.one)): Thanks for giving me the idea to create a game zone, that is, many mini games bundled into 1 game. While the game is initially planned for battle game, this idea brings me into creating something that would not be boring for everyone. By the way, if you want to get useful resources and informations, you should probably visit his website.
 - Lastly but not miss, thanks everybody who play this game and their suggestions. Without user suggestions and above contributors this game wouldn't have gotten this far.
 
-### Translators
+## Translators{#langs}
 {{% langs %}}

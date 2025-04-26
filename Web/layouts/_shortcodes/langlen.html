@@ -1,4 +1,4 @@
-{{- $l := site.Data.langs | len }}
+{{- $l := site.Data.lang | len }}
 {{- $singular := or (.Get 0) "%l% translated language" }}
 {{- $plural := or (.Get 1) "%l% translated languages" }}
 {{- $final := "" }}

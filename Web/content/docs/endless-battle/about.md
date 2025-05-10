@@ -4,7 +4,7 @@ weight: 1
 layout: doc
 ---
 # %title%
-Endless Battle is a 3D shooting game. This is the first game ever available on Multi Games Hoard and is the largest mini game in this collection, because the initial idea is to develop Endless Battle but then got transfered into Multi Games Hoard, with this game being the first to present.
+Endless Battle is a 3D shooting game. This is the first game ever available on Multi Games Hoard and is the largest mini game in this collection with continuous improvements, because the initial idea is to develop Endless Battle but then got transfered into Multi Games Hoard, with this game being the first to present.
 
 ## Features
 Endless Battle advertises the following features:
@@ -15,6 +15,6 @@ Endless Battle advertises the following features:
 - Use magic attacks to take advantage over your enemies. Use a variety of spells, from healing spells to instant kill spells, invisibility, blocking spells, and so on as the magic energy builds up at each enemy's death.
 - Use different items to take advantages over your enemies.
 - Use your hearing to find out where they are.
-- Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you.
+- Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you, with shields and other equipment.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if your enemy is in front of you.
 - A keyboard is recommended on Android.

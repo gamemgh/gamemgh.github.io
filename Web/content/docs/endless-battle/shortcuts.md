@@ -4,7 +4,7 @@ weight: 10
 layout: doc
 ---
 # %title%
-There are a large number of shortcuts that are used within the game, and thus they are divided into categories.
+There are a large number of shortcuts that are used within the game, and are thus divided into categories.
 
 ## Movement and Navigation
 - Q: Turn left 45 degrees.

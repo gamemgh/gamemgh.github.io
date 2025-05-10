@@ -8,6 +8,8 @@ To translate, download the English file (en). For the most update English versio
 
 Once the English language is in place – that is – in the lang folder, open the game and click the icon called "Language Manager".
 
+You can also use the GUI directly in the [langs repository](https://github.com/gamemgh/langs) if you want to work with Git.
+
 You can use tab and shift tab to navigate, as this is the dialog.
 
 Next, if you want to edit your language, choose from the list and click edit. Or if your language isn't in the folder, click create to create a new and follow the dialog.
@@ -15,7 +17,7 @@ Next, if you want to edit your language, choose from the list and click edit. Or
 Note: Language codes must be always lowercase. You can use upper case for country codes. For example, en-US means en is language code, and US is the country code, so US can be uppercase.
 
 ## Updated keys
-English translations might have new keys or existing keys updated. When you click edit on your language, press tab to get to the keys list and it will display whether it is changed, updated, or removed. You can use delete key to remove a translation key.
+English translations might have new keys or existing keys updated. When you click edit on your language, press tab – or Alt+T – to get to the keys list and it will display whether it is changed, updated, or removed. You can use delete key to remove a translation key. If your language contains keys that are not in the main fallback language anymore, they will be automatically removed.
 
 # Translation Policy{#policy}
 We do not verify a full translation because we do not speak every language. This is why the web pages are not translated to insure maximum readability.

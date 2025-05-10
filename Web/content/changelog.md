@@ -2,16 +2,6 @@
 title: "Multi Games Hoard Changes"
 ---
 # Multi Games Hoard Changes
-## New in version 0.1.0 (build 2025.05.10)
-- Warning. After updating, you might lose your data because of a change in data directory retrieving system. This is system dependent. If your data is somehow unavailable, review the path in the settings so you can make necessary corrections, for example moving the files when needed. This is the last adjustment to the data directory, and Android devices can now save the game data!
-- Language translation system has changed. You can now click an icon in the main menu called "Language Manager". Do to this, all languages have been cleared and we apoligize for it. This system is good because it makes updating keys easier than before and you can test your translations without leaving the game. After translating you can send to me as before, but this time, 1 file only.
-- Fixed language downloader detecting languages incorrectly. Thanks "Rafael Brito" for the report.
-- Added an icon in the main menu to check your current language updates.
-- You can now set sound input and output devices in the settings (Android exclusive).
-- Improved Settings and other UI dialogs (Android exclusive).
-- You can now select menu music or make it random in the settings (Android inclusive). By default, it is set to random.
-- In Endless Battle, enemies can now wear shields, therefore it is now more difficult to hit them. Also, some of your large enough weapons – like Rifle, Sniper, Grenade – can be randomized whether they will hit the shield or the body of the enemy directly.
-
 ## New in version 0.0.9 (build 2025.04.02)
 - Changed the name to Multi Games Hoard to resolve copyright name and DMCA issues. This change does not affect players much though, because the website and general short form of the game's name is left untouched. Note: to get your data back, go to appdata folder, then rename the previous game's name folder to MGH, then put it in a folder called HarryMK. You will need to create that folder, or you can also open the game so it will automatically create for you then you can copy the folder and rename it.
 - Added Statistics Menu to display your statistics. Thanks "Lamar" for the suggestion. The number of available Statistics is currently small but will be expanded in the future.

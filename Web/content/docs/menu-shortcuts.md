@@ -1,8 +1,8 @@
----
-title: Menu Shortcuts
-weight: 10
-layout: doc
----
++++
+layout = 'doc'
+title = 'Menu Shortcuts'
+weight = 10
++++
 # Shortcuts for Menu
 - Arrow keys: Moves around the menu.
 	- Left and right swipes on Android.

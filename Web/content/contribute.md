@@ -1,6 +1,6 @@
----
-title: Contributing
----
++++
+title = 'Contributing'
++++
 # %title%
 ## Translation
 You can contribute by translating the game in your language if it does not exist or improve other existing languages.

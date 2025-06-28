@@ -1,8 +1,8 @@
----
-title: Translation
-weight: 20
-layout: doc
----
++++
+layout = 'doc'
+title = 'Translation'
+weight = 20
++++
 # %title%
 To translate, download the English file (en). For the most update English version we recommend [downloading from this link](https://github.com/gamemgh/langs/releases/download/lang/en.json) or you can also use the language downloader in the game.
 
@@ -14,7 +14,7 @@ You can use tab and shift tab to navigate, as this is the dialog.
 
 Next, if you want to edit your language, choose from the list and click edit. Or if your language isn't in the folder, click create to create a new and follow the dialog.
 
-Note: Language codes must be always lowercase. You can use upper case for country codes. For example, en-US means en is language code, and US is the country code, so US can be uppercase.
+Note: Language codes must be always lowercase. You can use upper case for country codes. For example, **en-US** means **en** is language code, and **US** is the country code, so **US** can be uppercase.
 
 ## Updated keys
 English translations might have new keys or existing keys updated. When you click edit on your language, press tab – or Alt+T – to get to the keys list and it will display whether it is changed, updated, or removed. You can use delete key to remove a translation key. If your language contains keys that are not in the main fallback language anymore, they will be automatically removed.

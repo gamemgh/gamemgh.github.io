@@ -1,8 +1,8 @@
----
-title: Shortcuts of Endless Battle
-weight: 10
-layout: doc
----
++++
+layout = 'doc'
+title = 'Shortcuts of Endless Battle'
+weight = 10
++++
 # %title%
 There are a large number of shortcuts that are used within the game, and are thus divided into categories.
 

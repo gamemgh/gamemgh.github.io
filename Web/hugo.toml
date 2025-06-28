@@ -1,0 +1,9 @@
+cleanDestinationDir = true
+publishDir = "HTML"
+title = "Multi Games Hoard"
+baseURL = "https://gamemgh.github.io"
+theme = "hguinav"
+[taxonomies]
+	category = "categories"
+	tag = "tags"
+	author = "authors"

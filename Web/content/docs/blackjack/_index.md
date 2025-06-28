@@ -1,6 +1,6 @@
----
-title: "Blackjack (Mini Game)"
-weight: 2
-layout: doc
-sort_by: Title
----
++++
+layout = 'doc'
+sort_by = 'Title'
+title = 'Blackjack (Mini Game)'
+weight = 2
++++

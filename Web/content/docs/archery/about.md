@@ -1,9 +1,9 @@
----
-title: About Archery
-layout: doc
----
++++
+layout = 'doc'
+title = 'About Archery'
++++
 # %title%
-In this Archery game, your task is to shoot down the flying Plane that is moving from side to side. If you hit your target you get points. Each round needs a certain amount of points to win.
+In this Archery game, your task is to shoot the flying Plane that is moving from side to side down. If you hit your target you get points. Each round needs a certain amount of points to win.
 
 Round 1 starts with 16 points needed to win, and each round increases by 1 point. Please note that the speed of which the Plane is moving will increase faster and faster with each round which makes it difficult to hit.
 

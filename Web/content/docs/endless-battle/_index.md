@@ -1,6 +1,6 @@
----
-title: Endless Battle (Mini Game)
-layout: doc
-weight: 1
-sort_by: Title
----
++++
+layout = 'doc'
+sort_by = 'Title'
+title = 'Endless Battle (Mini Game)'
+weight = 1
++++

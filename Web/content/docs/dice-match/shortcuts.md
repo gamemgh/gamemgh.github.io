@@ -1,8 +1,8 @@
----
-title: "Shortcuts of Dice Match"
-weight: 10
-layout: doc
----
++++
+layout = 'doc'
+title = 'Shortcuts of Dice Match'
+weight = 10
++++
 # %title%
 - Escape: Quits the game.
 	- On Android, click back button.

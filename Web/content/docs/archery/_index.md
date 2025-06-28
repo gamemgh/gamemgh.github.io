@@ -1,6 +1,6 @@
----
-title: Archery (Mini Game)
-layout: doc
-sort_by: "Title"
-weight: 4
----
++++
+layout = 'doc'
+sort_by = 'Title'
+title = 'Archery (Mini Game)'
+weight = 4
++++

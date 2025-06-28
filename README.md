@@ -8,7 +8,7 @@ Multi Games Hoard is an offline set of many mini games bundled into 1 game, for 
 ## Updating theme
 As more features are available to the theme, you need to update into your local computer. Please note that this is not required to do, unless you want to build the website from source yourself.
 
-If you choose to do so, run the following command from the root of this repository:
+If you choose to do so, run the following command from the root of this repository, provided that you have the necessary tools installed:
 ```bash
 git submodule update --remote
 ```

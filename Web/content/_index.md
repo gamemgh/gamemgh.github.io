@@ -1,9 +1,10 @@
----
-title: Home
-menu:
-  main:
-    weight: 1
----
++++
+title = 'Home'
+
+[menu]
+  [menu.main]
+    weight = 1
++++
 # %title%
 Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!
@@ -32,7 +33,7 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 - A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like Endless Battle. Keyboard requirement will be clearly documented in about section of each mini game.
 - Android version is currently limited until further notice. For example, touch gestures are limited, you cannot type input etc.
 
-Please note that these requirements and recommendations may be updated at any time with or without notifications.
+Please note that these requirements and recommendations may be updated at any time with or without notification.
 
 ## Download{#download}
 <p id="version"></p>

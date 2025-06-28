@@ -1,8 +1,8 @@
----
-title: "About Dice Match"
-weight: 1
-layout: doc
----
++++
+layout = 'doc'
+title = 'About Dice Match'
+weight = 1
++++
 # %title%
 The objective here, is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you will earn money equal to 0 to 20 times their total. For example, if the numbers are 5 and 5, their total is 5 + 5 = 10. If the multiplier is, say, you got 15 by luck, you will receive 150, which is 15 times the total.
 

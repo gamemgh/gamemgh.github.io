@@ -1,10 +1,11 @@
----
-title: Privacy Policy
-date: 2025-04-20T22:00:00+06:30
-menu:
-  main:
-    weight: 3000
----
++++
+date = '2025-04-20T22:00:00+06:30'
+title = 'Privacy Policy'
+
+[menu]
+  [menu.main]
+    weight = 3000
++++
 # %title%
 Last updated: %updated%
 

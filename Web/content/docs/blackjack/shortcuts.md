@@ -1,8 +1,8 @@
----
-title: "Shortcuts of Blackjack"
-weight: 10
-layout: doc
----
++++
+layout = 'doc'
+title = 'Shortcuts of Blackjack'
+weight = 10
++++
 # %title%
 - Up and Down arrows: Navigates through the elements.
 	- On Android, swipe left and right.

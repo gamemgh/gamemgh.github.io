@@ -1,6 +1,6 @@
----
-title: "Multi Games Hoard Changes"
----
++++
+title = 'Multi Games Hoard Changes'
++++
 # Multi Games Hoard Changes
 ## New in version 0.0.9 (build 2025.04.02)
 - Changed the name to Multi Games Hoard to resolve copyright name and DMCA issues. This change does not affect players much though, because the website and general short form of the game's name is left untouched. Note: to get your data back, go to appdata folder, then rename the previous game's name folder to MGH, then put it in a folder called HarryMK. You will need to create that folder, or you can also open the game so it will automatically create for you then you can copy the folder and rename it.

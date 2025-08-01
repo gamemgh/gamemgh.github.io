@@ -12,7 +12,7 @@ You can also use the GUI directly in the [langs repository](https://github.com/g
 
 You can use tab and shift tab to navigate, as this is the dialog.
 
-Next, if you want to edit your language, choose from the list and click edit. Or if your language isn't in the folder, click create to create a new and follow the dialog.
+Next, if you want to edit your language, choose from the list and click edit. Or if your language is not in the folder, click create to create a new and follow the dialog.
 
 Note: Language codes must be always lowercase. You can use upper case for country codes. For example, **en-US** means **en** is language code, and **US** is the country code, so **US** can be uppercase.
 

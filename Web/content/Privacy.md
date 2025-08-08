@@ -1,10 +1,10 @@
 +++
-date = '2025-04-20T22:00:00+06:30'
-title = 'Privacy Policy'
+date = 2025-04-20T22:00:00+06:30
+title = "Privacy Policy"
 
 [menu]
-  [menu.main]
-    weight = 3000
+	[menu.main]
+		weight = 3000
 +++
 # %title%
 Last updated: %updated%
@@ -12,7 +12,7 @@ Last updated: %updated%
 This %title% explains how we collect, use, share, and interact with the information.
 
 ## Collection of information
-The following information may be collected including explanation of whether they are automatically collected, why they are collected, how long they will save the information, and if it is possible to ask deletion request of them:
+The following information may be collected including explanation of whether they are automatically collected, why they are collected, how long they will save the information, and if it is possible to ask eventual deletion:
 
 ### We may collect your device's mac address, the saved directory, user and/or device name, screen reader, and other necessary information
 - This is sent by you when you give the encrypted text which can be retrieved from the "get information" icon within the game main menu.

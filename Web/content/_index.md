@@ -1,9 +1,9 @@
 +++
-title = 'Home'
+title = "Home"
 
 [menu]
-  [menu.main]
-    weight = 1
+	[menu.main]
+		weight = 1
 +++
 # %title%
 Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
@@ -16,9 +16,9 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 ## Features{#features}
 - Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over.
 - 3D; HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
-- Multilingual; play the game in  multiple languages translated by players. At the moment, there {{< langlen "is %l% translated language" "are %l% translated languages" >}} available, with more to come.
+- Multilingual; play the game in  multiple languages translated by players. At the moment, there {{< langlen "is %l% translated language" "are %l% translated languages" >}} available, with more to come in the future.
 - No visual; accessibility is only what we have. Unfortunately, vision is not one of them.
-- Play directly with your screen reader.
+- Play directly with your screen reader. NVDA has already been tested.
 - Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
 - Documentation open Source; contribute to documentations if they are out of date or have not been written.
 - Portability; the game is portable. Extract the zip and start playing!
@@ -33,7 +33,7 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 - A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like Endless Battle. Keyboard requirement will be clearly documented in about section of each mini game.
 - Android version is currently limited until further notice. For example, touch gestures are limited, you cannot type input etc.
 
-Please note that these requirements and recommendations may be updated at any time with or without notification.
+Please note that these requirements and recommendations may be updated at any time.
 
 ## Download{#download}
 <p id="version"></p>

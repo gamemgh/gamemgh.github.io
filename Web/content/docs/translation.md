@@ -25,6 +25,6 @@ We do not verify a full translation because we do not speak every language. This
 However, note the following things when translating:
 - Translations must proceed exactly as written in above documentation.
 - You  are responsible to keep your language translations up to date. However, this does not mean you can put unnecessary things in the translations. If we receive reports from players about the translation, that language might get removed.
-- The languages are deamed outdated and will be removed if they are not updated within 3 months of the latest game release. Notifications will be sent to the channels 2 weeks prior to their removal.
+- The languages are deemed outdated and will be removed if they are not updated within 3 months of the latest game release. Notifications will be sent to the channels 2 weeks prior to their removal.
 - Translators are recommended to join to the Telegram channel found in the footer of this website if you have it to get notifications, as many of the notifications are sent there.
 - We do not completely prohibit the use of the translation tools, but the manual translations is encouraged over using translation tools to insure accuracy and readability. Thus, manual translations are highly recommended, because players want their language to be as accurate as possible and they expect you to consider the same.

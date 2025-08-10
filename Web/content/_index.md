@@ -43,6 +43,8 @@ Please note that these requirements and recommendations may be updated at any ti
 
 All the links are permanent. Note: all the download counts are calculated only for the latest version.
 
+[View on Itch](https://harrymkt.itch.io/mgh)
+
 download for:
 - [Windows]({{< dlurl file="mgh.zip" >}})<span id="dcw"></span>{{< dc id="dcw" file="mgh.zip" >}}
 - [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}

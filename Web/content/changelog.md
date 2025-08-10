@@ -2,14 +2,21 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
+## New in version 0.1.1 (build 2025.08.10)
+- Added contextual help system (CHS). Press `Alt + H` and it will display help. You can also press the shortcuts and listen their info in the keyboard area in realtime. The help topics are english builds. Also, this system is not currently available on Android unless if you are using a keyboard to navigate.
+- Translation / language improvements:
+	- Added an icon in the main menu to check for fallback language updates so that you do not need to change to english every time you want to get updates for translation.
+	- Languages will now automatically refresh if needed.
+	- All previous languages have been converted to be compatible with the new system. Download from the language downloader.
+
 ## New in version 0.1.0 (build 2025.07.05)
 - Warning. After updating, you might lose your data because of a change in data directory retrieving system. This is system dependent. If your data is somehow unavailable, review the path in the settings so you can make necessary corrections, for example moving the files when needed. This is the last adjustment to the data directory. Android devices can now save the game data!
 - Language translation system has been changed. You can now click an icon in the main menu called "Language Manager". Due to this, all languages have been cleared and we apoligize for it. This system is good because it makes updating keys easier than before and you can test your translations without leaving the game. After translating you can send to me as before, but this time, 1 file only.
 - Fixed language downloader detecting languages incorrectly. Thanks "Rafael Brito" for the report.
 - Added an icon in the main menu to check your current language updates.
-- You can now set sound input and output devices in the settings (Android exclusive).
-- Improved Settings and other UI dialogs (Android exclusive).
-- You can now select menu music or make it random in the settings (Android inclusive). By default, it is set to random.
+- You can now set sound input and output devices in the settings (Android excluded).
+- Improved Settings and other UI dialogs (Android excluded).
+- You can now select menu music or make it random in the settings (Android excluded). By default, it is set to random.
 - In Endless Battle, enemies can now wear shields, therefore it is now more difficult to hit them. Also, some of your large enough weapons – like Rifle, Sniper, Grenade – can be randomized whether they will hit the shield or the body of the enemy directly. Since you already have magical abilities, you currently do not have the ability to wear shields.
 - Readable time days, hours, minutes, seconds, and milliseconds can now be translated.
 - Added download system in the game. Unfortunately Android has not been tested.
@@ -58,7 +65,7 @@ First of all, **Happy new year!**
 - Added a checkbox in the settings to control whether item loop sounds are played. Thanks "Way Yan Soe" for his suggestion!
 - Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
 	- Enemies can now spawn base on your map and the number of your resurrection. This means that bigger and bigger enemies will you likely to find as your resurrection goes higher. This acts just like a starting point for an expansive map system that will be available in the near future.
-	- Introducing a new enemy or animal (Lion)! Watch out! This animal is big, and take a lot of damage than previous enemies, with the approximate estimation that you will be killed is two hits. Don ot worry newbies, you will only find them at resurrection 4 or above. Suggestion? Well, stay away from them, and shoot from a greater distance. They also have a slight higher range than Bears, which is another thing to care of.
+	- Introducing a new enemy or animal (Lion)! Watch out! This animal is big, and take a lot of damage than previous enemies, with the approximate estimation that you will be killed is two hits. Do not worry newbies, you will only find them at resurrection 4 or above. Suggestion? Well, stay away from them, and shoot from a greater distance. They also have a slight higher range than Bears, which is another thing to care of.
 	- The game now speaks who kills you as soon as you die.
 	- Fixed bullet shoot range.
 

@@ -4,7 +4,7 @@ title = 'Translation'
 weight = 20
 +++
 # %title%
-To translate, download the English file (en). For the most update English version we recommend [downloading from this link](https://github.com/gamemgh/langs/releases/download/lang/en.json) or you can also use the language downloader in the game.
+To translate, download the English file (en). For the most update English version we recommend [downloading from this link](https://github.com/gamemgh/langs/releases/download/lang/en.json) or you can also use the language downloader in the game. You can also use an icon called "Check for fallback language updates" in the main menu.
 
 Once the English language is in place – that is – in the lang folder, open the game and click the icon called "Language Manager".
 

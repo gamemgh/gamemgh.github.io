@@ -28,7 +28,7 @@ The following information may be collected including explanation of whether they
 
 ### We may collect your name, and optionally email or home page (website), or other necessary contact details
 - This happens when you [contribute]({{% relref "contribute.md" %}}), [translate]({{% relref "docs/translation.md" %}}), or any way that involves in the contributions with the game
-- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), [translators]({{% relref "contributors.md#langs" %}}), or other categories. These informations may be displayed with or without your knowledge depending on the case.
+- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), [translators]({{% relref "contributors.md#langs" %}}), or other categories. This information may be displayed with or without your knowledge depending on the case.
 - This is primarily collected permanently. However, for translations, it will be retained as long as at least one of your translated languages exists. Translation also has its own [policy]({{% relref "docs/translation.md#policy" %}}) and is thus advised to review it as well.
 - If you ask to delete the information, we would comply, but in the case of translation languages, they may be removed or you will be asked to change the name to something else.
 

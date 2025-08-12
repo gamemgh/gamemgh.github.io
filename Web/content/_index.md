@@ -52,4 +52,6 @@ download for:
 - [Mac OS]({{< dlurl file="mgh.app.zip" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh.app.zip" >}}
 
 ## Donation
-This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate via [PayPal](https://paypal.me/harrymk64), again thanks if you do so, I would be appreciated!
+This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate via. Thanks if you do so, I would be appreciated!
+- [PayPal](https://paypal.me/harrymk64)
+- [Donate on Itch](https://harrymkt.itch.io/mgh)

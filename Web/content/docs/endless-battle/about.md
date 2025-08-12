@@ -17,4 +17,4 @@ Endless Battle advertises the following features:
 - Use your hearing to find out where they are.
 - Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you, with shields and other equipment.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if your enemy is in front of you.
-- A keyboard is recommended on Android.
+- A keyboard is recommended on Android. Full gestures cannot be simulated.

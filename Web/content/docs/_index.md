@@ -10,6 +10,8 @@ title = 'Documentation'
 # %title%
 To contribute, site and/or documentation improvements, visit [this repository](https://github.com/gamemgh/gamemgh.github.io).
 
+Note: You can also use the in-game contextual help system (CHS) to get shortcuts of a specific part / game by pressing `Alt+H` anywhere in the game.
+
 ## Installation
 The game is portable, and you do not need a massive set of libraries to install. In most cases, you can run the game almost immediately after you have downloaded. The following is a list of information should the installation failures have occurred.
 {{< tab name="Windows" id="win" >}}

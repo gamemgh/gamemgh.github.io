@@ -2,6 +2,13 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
+## New in version 0.1.2 (build 2025.09.12)
+- Added a new mini game called Run for Your CHOCOLATES (RFC). The objective of the game is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them. Be warned, that 30 percent of them can also walk to you. Thanks several players (found in documentation of the game) for voice acting as chocolate makers!
+- Revert the game back to old sound system to resolve game crashing issues. You might experience no sound as of this change. You can change the device in the settings if that is the case. The best thing of the old sound system is the ability to set to default device back, so you do not need to worry about sound device changes. Unfortunate, this disables the Android build. Sorry for Android players, but the game can no longer run on Android. We will be fixing it as soon as possible mainly with the new sound system / plugin loading.
+- The CHS system that opens with `Alt+H` now receives a new control called sound overview, which basically displays the sounds that you can listen and learn. This control changes depending on the topic you have selected. You can press `F2` in the sound overview list to play the selected sound.
+- Changed menu sounds.
+- Added a sound when you drink the potion in Endless Battle.
+
 ## New in version 0.1.1 (build 2025.08.10)
 - Added contextual help system (CHS). Press `Alt + H` and it will display help. You can also press the shortcuts and listen their info in the keyboard area in realtime. The help topics are english builds. Also, this system is not currently available on Android unless if you are using a keyboard to navigate.
 - Translation / language improvements:

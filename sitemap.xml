@@ -16,6 +16,8 @@
   </url><url>
     <loc>https://gamemgh.github.io/docs/archery/</loc>
   </url><url>
+    <loc>https://gamemgh.github.io/docs/rfc/</loc>
+  </url><url>
     <loc>https://gamemgh.github.io/docs/menu-shortcuts/</loc>
   </url><url>
     <loc>https://gamemgh.github.io/docs/blackjack/shortcuts/</loc>
@@ -26,14 +28,17 @@
   </url><url>
     <loc>https://gamemgh.github.io/docs/translation/</loc>
   </url><url>
+    <loc>https://gamemgh.github.io/blog/</loc>
+    <lastmod>2025-09-12T15:00:00+06:30</lastmod>
+  </url><url>
     <loc>https://gamemgh.github.io/</loc>
-    <lastmod>2025-04-20T22:00:00+06:30</lastmod>
+    <lastmod>2025-09-12T15:00:00+06:30</lastmod>
+  </url><url>
+    <loc>https://gamemgh.github.io/blog/september-2025-update/</loc>
+    <lastmod>2025-09-12T15:00:00+06:30</lastmod>
   </url><url>
     <loc>https://gamemgh.github.io/privacy/</loc>
     <lastmod>2025-04-20T22:00:00+06:30</lastmod>
-  </url><url>
-    <loc>https://gamemgh.github.io/blog/</loc>
-    <lastmod>2025-03-13T11:00:00+06:30</lastmod>
   </url><url>
     <loc>https://gamemgh.github.io/blog/march-2025-update/</loc>
     <lastmod>2025-03-13T11:00:00+06:30</lastmod>
@@ -48,6 +53,8 @@
     <lastmod>2024-10-02T20:34:00+06:30</lastmod>
   </url><url>
     <loc>https://gamemgh.github.io/docs/archery/about/</loc>
+  </url><url>
+    <loc>https://gamemgh.github.io/docs/rfc/about/</loc>
   </url><url>
     <loc>https://gamemgh.github.io/authors/</loc>
   </url><url>
@@ -66,5 +73,7 @@
     <loc>https://gamemgh.github.io/tags/</loc>
   </url><url>
     <loc>https://gamemgh.github.io/to-do-list/</loc>
+  </url><url>
+    <loc>https://gamemgh.github.io/docs/rfc/voices/</loc>
   </url>
 </urlset>

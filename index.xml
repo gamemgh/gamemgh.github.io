@@ -6,7 +6,7 @@
     <description>Recent content in Home on Multi Games Hoard</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Apr 2025 22:00:00 +0630</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 15:00:00 +0630</lastBuildDate>
     <atom:link href="https://gamemgh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Blackjack</title>
@@ -65,6 +65,13 @@
       <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;To translate, download the English file (en). For the most update English version we recommend &lt;a href=&#34;https://github.com/gamemgh/langs/releases/download/lang/en.json&#34;&gt;downloading from this link&lt;/a&gt; or you can also use the language downloader in the game. You can also use an icon called &amp;quot;Check for fallback language updates&amp;quot; in the main menu.&lt;/p&gt;&#xA;&lt;p&gt;Once the English language is in place – that is – in the lang folder, open the game and click the icon called &amp;quot;Language Manager&amp;quot;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>September  2025 Update</title>
+      <link>https://gamemgh.github.io/blog/september-2025-update/</link>
+      <pubDate>Fri, 12 Sep 2025 15:00:00 +0630</pubDate>
+      <guid>https://gamemgh.github.io/blog/september-2025-update/</guid>
+      <description>&lt;p&gt;Hello. I want to share everyone about what&#39;s happening as of now.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Privacy Policy</title>
       <link>https://gamemgh.github.io/privacy/</link>
       <pubDate>Sun, 20 Apr 2025 22:00:00 +0630</pubDate>
@@ -107,6 +114,13 @@
       <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;In this Archery game, your task is to shoot the flying Plane that is moving from side to side down. If you hit your target you get points. Each round needs a certain amount of points to win.&lt;/p&gt;&#xA;&lt;p&gt;Round 1 starts with 16 points needed to win, and each round increases by 1 point. Please note that the speed of which the Plane is moving will increase faster and faster with each round which makes it difficult to hit.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About Run for Your CHOCOLATES</title>
+      <link>https://gamemgh.github.io/docs/rfc/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gamemgh.github.io/docs/rfc/about/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;The objective of RFC is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.&lt;/p&gt;&#xA;&lt;p&gt;Remember, there is 30 percent chance that these chocolate makers would walk as if they are following you.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Contributing</title>
       <link>https://gamemgh.github.io/contribute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -140,6 +154,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gamemgh.github.io/to-do-list/</guid>
       <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;This list contains code improvements or libraries that are still need to be defined, added, used, modified, replaced or otherwise changed in order to get the best possible working and are beneficial to display in public interestry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voice Actors</title>
+      <link>https://gamemgh.github.io/docs/rfc/voices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gamemgh.github.io/docs/rfc/voices/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;Sorted by oldest to newest.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Patricus: As Patricus Meow.&lt;/li&gt;&#xA;&lt;li&gt;RachelK.&lt;/li&gt;&#xA;&lt;li&gt;Chichie.&lt;/li&gt;&#xA;&lt;li&gt;Landon.&lt;/li&gt;&#xA;&lt;li&gt;Kiwi James: As Kiwi.&lt;/li&gt;&#xA;&lt;li&gt;Kannadiga.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

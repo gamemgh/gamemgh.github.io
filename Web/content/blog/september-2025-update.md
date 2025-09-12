@@ -19,4 +19,4 @@ This means the following for you:
 - Our automatic release workflow also works seemlessly with Itch, and thus updates will be the same as though on this website / GitHub.
 
 ### New mini game (Run for Your CHOCOLATES)
-The objective of the game [RFC]({{% relref "/docs/rfc/_index.md %}}) is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.
+The objective of the game [RFC]({{% relref "/docs/rfc/_index.md" %}}) is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.

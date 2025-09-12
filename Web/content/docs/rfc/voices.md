@@ -1,5 +1,6 @@
 +++
 title = "Voice Actors"
+layout = 'doc'
 sort_by = "Title"
 +++
 # %title%
@@ -9,3 +10,4 @@ Sorted by oldest to newest.
 - Chichie.
 - Landon.
 - Kiwi James: As Kiwi.
+- Kannadiga.

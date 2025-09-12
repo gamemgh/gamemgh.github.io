@@ -1,5 +1,6 @@
 +++
 title = "About Run for Your CHOCOLATES"
+layout = 'doc'
 sort_by = "Title"
 +++
 # %title%

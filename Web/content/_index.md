@@ -9,6 +9,8 @@ title = "Home"
 Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!
 
+Warning. The game is currently not possible to run on Android from 0.1.2. We will try to fix it as soon as possible.
+
 **Warning!** Do not play games for a long time which could potentially effect your work. Play games only to get fun for a while, and do not let it effects your work!
 
 If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
@@ -47,7 +49,7 @@ All the links are permanent. Note: all the download counts are calculated only f
 
 download for:
 - [Windows]({{< dlurl file="mgh.zip" >}})<span id="dcw"></span>{{< dc id="dcw" file="mgh.zip" >}}
-- [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}
+<!--- [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}-->
 - [Linux]({{< dlurl file="mgh-linux.zip" >}})<span id="dcl"></span>{{< dc id="dcl" file="mgh-linux.zip" >}}
 - [Mac OS]({{< dlurl file="mgh.app.zip" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh.app.zip" >}}
 

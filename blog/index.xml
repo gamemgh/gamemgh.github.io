@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Multi Games Hoard</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:00:00 +0630</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 21:40:00 +0630</lastBuildDate>
     <atom:link href="https://gamemgh.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Translation System Removal</title>
+      <link>https://gamemgh.github.io/blog/translation-system-removal/</link>
+      <pubDate>Tue, 23 Sep 2025 21:40:00 +0630</pubDate>
+      <guid>https://gamemgh.github.io/blog/translation-system-removal/</guid>
+      <description>Hello everyone. Unfortunately, the translation system of MGH will be removed in the next update. This is a list of reasons why</description>
+    </item>
     <item>
       <title>September  2025 Update</title>
       <link>https://gamemgh.github.io/blog/september-2025-update/</link>

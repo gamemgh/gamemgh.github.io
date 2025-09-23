@@ -6,7 +6,7 @@
     <description>Recent content in Home on Multi Games Hoard</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:00:00 +0630</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 21:40:00 +0630</lastBuildDate>
     <atom:link href="https://gamemgh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Blackjack</title>
@@ -63,6 +63,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gamemgh.github.io/docs/translation/</guid>
       <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;To translate, download the English file (en). For the most update English version we recommend &lt;a href=&#34;https://github.com/gamemgh/langs/releases/download/lang/en.json&#34;&gt;downloading from this link&lt;/a&gt; or you can also use the language downloader in the game. You can also use an icon called &amp;quot;Check for fallback language updates&amp;quot; in the main menu.&lt;/p&gt;&#xA;&lt;p&gt;Once the English language is in place – that is – in the lang folder, open the game and click the icon called &amp;quot;Language Manager&amp;quot;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Translation System Removal</title>
+      <link>https://gamemgh.github.io/blog/translation-system-removal/</link>
+      <pubDate>Tue, 23 Sep 2025 21:40:00 +0630</pubDate>
+      <guid>https://gamemgh.github.io/blog/translation-system-removal/</guid>
+      <description>Hello everyone. Unfortunately, the translation system of MGH will be removed in the next update. This is a list of reasons why</description>
     </item>
     <item>
       <title>September  2025 Update</title>

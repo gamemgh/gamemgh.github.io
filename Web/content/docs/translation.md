@@ -1,6 +1,7 @@
 +++
 layout = 'doc'
 title = 'Translation'
+draft = true
 weight = 20
 +++
 # %title%

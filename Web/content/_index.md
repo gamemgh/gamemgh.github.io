@@ -18,11 +18,10 @@ If you have any feedbacks let me know using [Telegram](https://t.me/harrymkt).
 ## Features{#features}
 - Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over.
 - 3D; HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
-- Multilingual; play the game in  multiple languages translated by players. At the moment, there {{< langlen "is %l% translated language" "are %l% translated languages" >}} available, with more to come in the future.
 - No visual; accessibility is only what we have. Unfortunately, vision is not one of them.
 - Play directly with your screen reader. NVDA has already been tested.
 - Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
-- Documentation open Source; contribute to documentations if they are out of date or have not been written.
+- Documentation open Source; [contribute to documentation]({{% relref "contribute.md" %}}) if they are out of date or have not been written.
 - Portability; the game is portable. Extract the zip and start playing!
 - Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.
 
@@ -49,11 +48,11 @@ All the links are permanent. Note: all the download counts are calculated only f
 
 download for:
 - [Windows]({{< dlurl file="mgh.zip" >}})<span id="dcw"></span>{{< dc id="dcw" file="mgh.zip" >}}
-<!--- [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}-->
 - [Linux]({{< dlurl file="mgh-linux.zip" >}})<span id="dcl"></span>{{< dc id="dcl" file="mgh-linux.zip" >}}
 - [Mac OS]({{< dlurl file="mgh.app.zip" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh.app.zip" >}}
+<!--- [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}-->
 
 ## Donation
-This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate via. Thanks if you do so, I would be appreciated!
+This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate. Thanks if you do so, I would be appreciated!
 - [PayPal](https://paypal.me/harrymk64)
 - [Donate on Itch](https://harrymkt.itch.io/mgh)

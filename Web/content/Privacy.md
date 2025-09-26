@@ -1,5 +1,5 @@
 +++
-date = 2025-04-20T22:00:00+06:30
+date = 2025-09-25T22:00:00+06:30
 title = "Privacy Policy"
 
 [menu]
@@ -27,10 +27,10 @@ The following information may be collected including explanation of whether they
 - Deletion request is not available.
 
 ### We may collect your name, and optionally email or home page (website), or other necessary contact details
-- This happens when you [contribute]({{% relref "contribute.md" %}}), [translate]({{% relref "docs/translation.md" %}}), or any way that involves in the contributions with the game
-- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), [translators]({{% relref "contributors.md#langs" %}}), or other categories. This information may be displayed with or without your knowledge depending on the case.
-- This is primarily collected permanently. However, for translations, it will be retained as long as at least one of your translated languages exists. Translation also has its own [policy]({{% relref "docs/translation.md#policy" %}}) and is thus advised to review it as well.
-- If you ask to delete the information, we would comply, but in the case of translation languages, they may be removed or you will be asked to change the name to something else.
+- This happens when you [contribute]({{% relref "contribute.md" %}}), or any way that involves in the contributions with the game
+- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), or other categories. This information may be displayed with or without your knowledge depending on the case.
+- This is primarily collected permanently.
+- If you ask to delete the information, we would comply, and you'd be removed from the list.
 
 ## Use of information
 We use the information we collect:

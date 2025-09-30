@@ -8,13 +8,6 @@
     <language>en</language>
     <atom:link href="https://gamemgh.github.io/docs/blackjack/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Blackjack</title>
-      <link>https://gamemgh.github.io/docs/blackjack/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gamemgh.github.io/docs/blackjack/about/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;In this streamlined version of Blackjack, only cards numbered 1 through 10 are used; no face cards or suits. The objective remains to reach a total of 21 without going over. Each player starts with two cards and can either &#39;hit&#39; to draw another card or &#39;stand&#39; to keep their current total. Numbered cards hold their face value, and success in this game requires strategic choices and careful moves, focusing purely on numbers to achieve the winning hand.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Shortcuts of Blackjack</title>
       <link>https://gamemgh.github.io/docs/blackjack/shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -9,27 +9,6 @@
     <lastBuildDate>Thu, 25 Sep 2025 22:00:00 +0630</lastBuildDate>
     <atom:link href="https://gamemgh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Blackjack</title>
-      <link>https://gamemgh.github.io/docs/blackjack/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gamemgh.github.io/docs/blackjack/about/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;In this streamlined version of Blackjack, only cards numbered 1 through 10 are used; no face cards or suits. The objective remains to reach a total of 21 without going over. Each player starts with two cards and can either &#39;hit&#39; to draw another card or &#39;stand&#39; to keep their current total. Numbered cards hold their face value, and success in this game requires strategic choices and careful moves, focusing purely on numbers to achieve the winning hand.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Dice Match</title>
-      <link>https://gamemgh.github.io/docs/dice-match/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gamemgh.github.io/docs/dice-match/about/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;The objective here, is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you will earn money equal to 0 to 20 times their total. For example, if the numbers are 5 and 5, their total is 5 + 5 = 10. If the multiplier is, say, you got 15 by luck, you will receive 150, which is 15 times the total.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Endless Battle</title>
-      <link>https://gamemgh.github.io/docs/endless-battle/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gamemgh.github.io/docs/endless-battle/about/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;Endless Battle is a 3D shooting game. This is the first game ever available on Multi Games Hoard and is the largest mini game in this collection with continuous improvements, because the initial idea is to develop Endless Battle but then got transfered into Multi Games Hoard, with this game being the first to present.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;p&gt;Endless Battle advertises the following features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3D; play the game in an environment with 3D support. As such, enemies are likely to appear from all side.&lt;/li&gt;&#xA;&lt;li&gt;The higher your resurrection gets, the new and new weapons you will get.&lt;/li&gt;&#xA;&lt;li&gt;Buy extra healing items to prevent your loss through in-game currency gained by either killing enemies or playing other mini games like Blackjack to get in-game currency.&lt;/li&gt;&#xA;&lt;li&gt;Use different weapons to kill enemies. Use Grenades to shot down all, Machineguns to make quick sessions kill, and more.&lt;/li&gt;&#xA;&lt;li&gt;Use magic attacks to take advantage over your enemies. Use a variety of spells, from healing spells to instant kill spells, invisibility, blocking spells, and so on as the magic energy builds up at each enemy&#39;s death.&lt;/li&gt;&#xA;&lt;li&gt;Use different items to take advantages over your enemies.&lt;/li&gt;&#xA;&lt;li&gt;Use your hearing to find out where they are.&lt;/li&gt;&#xA;&lt;li&gt;Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you, with shields and other equipment.&lt;/li&gt;&#xA;&lt;li&gt;Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if your enemy is in front of you.&lt;/li&gt;&#xA;&lt;li&gt;A keyboard is recommended on Android. Full gestures cannot be simulated.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Menu Shortcuts</title>
       <link>https://gamemgh.github.io/docs/menu-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -105,20 +84,6 @@
       <pubDate>Wed, 02 Oct 2024 20:34:00 +0630</pubDate>
       <guid>https://gamemgh.github.io/blog/intro/</guid>
       <description>&lt;p&gt;Hello everyone! Endless Battle game is being redeveloped after I lost my hard disk talked about in this &lt;a href=&#34;https://harrymkt.github.io/blog/new-chapter-begins/&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Archery</title>
-      <link>https://gamemgh.github.io/docs/archery/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gamemgh.github.io/docs/archery/about/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;In this Archery game, your task is to shoot the flying Plane that is moving from side to side down. If you hit your target you get points. Each round needs a certain amount of points to win.&lt;/p&gt;&#xA;&lt;p&gt;Round 1 starts with 16 points needed to win, and each round increases by 1 point. Please note that the speed of which the Plane is moving will increase faster and faster with each round which makes it difficult to hit.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Run for Your CHOCOLATES</title>
-      <link>https://gamemgh.github.io/docs/rfc/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gamemgh.github.io/docs/rfc/about/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;%title%&lt;/h1&gt;&#xA;&lt;p&gt;The objective of RFC is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.&lt;/p&gt;&#xA;&lt;p&gt;Remember, there is 30 percent chance that these chocolate makers would walk as if they are following you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contributing</title>

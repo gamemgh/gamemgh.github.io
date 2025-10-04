@@ -1,5 +1,5 @@
 +++
-layout = 'doc'
+#layout = 'doc'
 title = 'Menu Shortcuts'
 weight = 10
 +++

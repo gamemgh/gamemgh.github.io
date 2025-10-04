@@ -1,7 +1,8 @@
 +++
 layout = 'doc'
 title = 'Documentation'
-
+[cascade]
+	layout = "doc"
 [menu]
 	[menu.main]
 		name = 'Documentation'

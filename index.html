@@ -42,17 +42,16 @@
 <h1 id="title">Home</h1>
 <p>Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!</p>
-<p>Warning. The game is currently not possible to run on Android from 0.1.2. We will try to fix it as soon as possible.</p>
-<p><strong>Warning!</strong> Do not play games for a long time which could potentially effect your work. Play games only to get fun for a while, and do not let it effects your work!</p>
-<p>If you have any feedbacks let me know using <a href="https://t.me/harrymkt">Telegram</a>.</p>
+<p><strong>Warning!</strong> Do not play games assessively, as it could potentially affect your work. Play games only for fun, and do not let them affect your work!</p>
+<p>If you have any feedback, let me know using <a href="https://t.me/harrymkt">Telegram</a>.</p>
 <h2 id="features">Features</h2>
 <ul>
 <li>Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over.</li>
 <li>3D; HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.</li>
-<li>No visual; accessibility is only what we have. Unfortunately, vision is not one of them.</li>
+<li>No visual; the game is fully audio-based and optimized for accessibility.</li>
 <li>Play directly with your screen reader. NVDA has already been tested.</li>
 <li>Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.</li>
-<li>Documentation open Source; <a href="/contribute/">contribute to documentation</a> if they are out of date or have not been written.</li>
+<li>Open Source documentation; <a href="/contribute/">contribute to documentation</a> if they are out of date or have not been written.</li>
 <li>Portability; the game is portable. Extract the zip and start playing!</li>
 <li>Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.</li>
 </ul>
@@ -61,7 +60,7 @@ This game will provide you with different mini games and endless hours of gamepl
 <li>Operating system: Windows, Linux, Mac OS, Android.</li>
 <li>64 bit system is required.</li>
 <li>1 GB ram, 2 GB is recommended.</li>
-<li>Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.</li>
+<li>Approximately 100 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.</li>
 <li>Headphones or speakers; optional but recommended. Again, this depends on the mini game you play.</li>
 <li>A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like Endless Battle. Keyboard requirement will be clearly documented in about section of each mini game.</li>
 <li>Android version is currently limited until further notice. For example, touch gestures are limited, you cannot type input etc.</li>
@@ -83,6 +82,7 @@ get_gh_release_info("gamemgh", "gamemgh.github.io", "latest", "published_at").th
 </script>
 <p>All the links are permanent. Note: all the download counts are calculated only for the latest version.</p>
 <p><a href="https://harrymkt.itch.io/mgh">View on Itch</a></p>
+<p>Here, download links are sorted by operating system that is most tested under.</p>
 <p>download for:</p>
 <ul>
 <li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.zip">Windows</a><span id="dcw"></span><script>
@@ -90,6 +90,16 @@ const dcw = document.getElementById("dcw");
 if (dcw) {
 	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.zip").then(t => {
 		dcw.textContent = `Download count: ${t.download_count}`;
+		totaldownload += t.download_count;
+		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+	});
+}
+</script></li>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.apk">Android</a><span id="dca"></span><script>
+const dca = document.getElementById("dca");
+if (dca) {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.apk").then(t => {
+		dca.textContent = `Download count: ${t.download_count}`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
 	});
@@ -116,18 +126,8 @@ if (dcmos) {
 }
 </script></li>
 </ul>
-<!--- [Android](https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.apk)<span id="dca"></span><script>
-const dca = document.getElementById("dca");
-if (dca) {
-	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.apk").then(t => {
-		dca.textContent = `Download count: ${t.download_count}`;
-		totaldownload += t.download_count;
-		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
-	});
-}
-</script>-->
 <h2 id="donation">Donation</h2>
-<p>This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate. Thanks if you do so, I would be appreciated!</p>
+<p>This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate. Thanks if you do so, I would appreciate it!</p>
 <ul>
 <li><a href="https://paypal.me/harrymk64">PayPal</a></li>
 <li><a href="https://harrymkt.itch.io/mgh">Donate on Itch</a></li>

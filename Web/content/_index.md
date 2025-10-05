@@ -16,9 +16,10 @@ If you have any feedback, let me know using [Telegram](https://t.me/harrymkt).
 ## Features{#features}
 - Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over.
 - 3D; HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
+- Multiple Mini Games; Play a variety of mini games, from a small [Archery]({{% relref "docs/archery" %}}) to a large mini games like [Endless Battle]({{% relref "docs/endless-battle" %}}).
 - No visual; the game is fully audio-based and optimized for accessibility.
 - Play directly with your screen reader. NVDA has already been tested.
-- Documentation; read the fully written comprehensive documentation to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
+- Documentation; read the fully written comprehensive [documentation]({{% relref "docs" %}}) to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
 - Open Source documentation; [contribute to documentation]({{% relref "contribute.md" %}}) if they are out of date or have not been written.
 - Portability; the game is portable. Extract the zip and start playing!
 - Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.
@@ -29,7 +30,7 @@ If you have any feedback, let me know using [Telegram](https://t.me/harrymkt).
 - 1 GB ram, 2 GB is recommended.
 - Approximately 100 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
 - Headphones or speakers; optional but recommended. Again, this depends on the mini game you play.
-- A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like Endless Battle. Keyboard requirement will be clearly documented in about section of each mini game.
+- A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like [Endless Battle]({{% relref "docs/endless-battle" %}}). Keyboard requirement will be clearly documented in about section of each mini game.
 - Android version is currently limited until further notice. For example, touch gestures are limited, you cannot type input etc.
 
 Please note that these requirements and recommendations may be updated at any time.

@@ -24,7 +24,7 @@ Run for Your CHOCOLATES advertises the following features:
 ## Adding a new chocolate maker
 If you want to add your voice to the game:
 1. Record the following sounds. These sounds can be an mp3 or an ogg file, and better if you zip the contents before sending:
-	- A sound for the loop, meaning the sound they make that you can be heard nearby.
-	- A sound when you stepped on the chocolate maker.
-1. Place all the contents in a folder and zip it.
-1. Finally, you can send me.
+	- One or more sounds for the loop, meaning the sound they make that you can be heard nearby.
+	- One or more sounds when you stepped on the chocolate maker.
+2. Place all the contents in a folder and zip it.
+3. Finally, you can send me.

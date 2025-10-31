@@ -5,9 +5,12 @@ sort_by = "Title"
 +++
 # %title%
 Sorted by oldest to newest.
-- Patricus: As Patricus Meow.
+- Patricus Meow: By [Patricus](https://posix.live).
 - RachelK.
 - Chichie.
 - Landon.
-- Kiwi James: As Kiwi.
+- Kiwi: By Kiwi James.
 - Kannadiga.
+- Jazzyjennifer.
+- Sneha.
+- Angie.

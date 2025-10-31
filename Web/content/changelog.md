@@ -2,6 +2,18 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
+## New in version 0.1.3 (build 2025.10.31)
+- Unfortunately, the translation system has been removed. Check this [blog post](https://gamemgh.github.io/blog/translation-system-removal).
+- Android now works again!
+- Changes for RFC mini game; These are changes that have been applied to Run for Your CHOCOLATES mini game and thus it is best to group them into 1 for readability:
+	- Added new voices for RFC: "Jazzyjennifer", "Sneha", "Angie".
+	- Chocolate makers in RFC can randomly fly now! They have aircrafts to follow you.
+	- You can now hit chocolate makers! Use your fireballs! Use your `Tab` and `Shift+Tab` to navigate your inventory, and `Enter` to throw. When you kill them, you will get the chocolates they had took. Fireballs will be randomly spawned, but you can find them at your starting coordinate. They also make fire noise.
+	- Chocolate makers now have their own characteristic values. This means that different chocolate makers will move differently, and each of them has different capabilities.
+	- Chocolate makers now have default number of chocolates in their bags upon they are spawned.
+	- You can now press the `A` key to look nearest chocolate makers that are within 25 meters, along with some information.
+- Added check for beta updates icon in the main menu. This icon requires a token, and thus only those who has access to beta can type. The token may change over time.
+
 ## New in version 0.1.2 (build 2025.09.12)
 - Added a new mini game called Run for Your CHOCOLATES (RFC). The objective of the game is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them. Be warned, that 30 percent of them can also walk to you. Thanks several players (found in documentation of the game) for voice acting as chocolate makers!
 - Revert the game back to old sound system to resolve game crashing issues. You might experience no sound as of this change. You can change the device in the settings if that is the case. The best thing of the old sound system is the ability to set to default device back, so you do not need to worry about sound device changes. Unfortunate, this disables the Android build. Sorry for Android players, but the game can no longer run on Android. We will be fixing it as soon as possible mainly with the new sound system / plugin loading.

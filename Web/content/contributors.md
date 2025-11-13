@@ -1,6 +1,5 @@
 +++
 title = "Contributors and Credits"
-
 [menu]
 	[menu.main]
 		weight = 1000

@@ -6,15 +6,15 @@ weight = 5
 aliases = ["rfc/about"]
 +++
 # %title%
-The objective of RFC is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.
+The objective of RFC is to collect as much chocolates as possible in a given time. You will move around a grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.
 
-Remember, there is 30 percent chance that these chocolate makers would walk as if they are following you.
+Remember, there is 30 percent chance that these chocolate makers would walk as if they are following you. They also have the ability to fly in some cases.
 
 Chocolate makers are fully voice acted.
 
 ## Features
 Run for Your CHOCOLATES advertises the following features:
-- Gain in-game currency which can be used across all the games to buy and exchange items.
+- Gain in-game currency which can be used across all the games to purchase and exchange items.
 - Randomized time limits, from 1 (one) minute to 5 (five) minutes.
 - 80 to 200 times the money worth your total number of collected chocolates.
 - Fully Voice Acted Chocolate Makers; See the [Chocolate maker list]({{% relref "voices.md" %}}).

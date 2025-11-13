@@ -1,4 +1,0 @@
-gltotal:
-  zero: "No languages"
-  one: "There is {{ . }} language translated"
-  other: "There are {{ . }} languages translated"

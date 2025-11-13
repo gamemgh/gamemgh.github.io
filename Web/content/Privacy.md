@@ -1,7 +1,6 @@
 +++
 date = 2025-09-25T22:00:00+06:30
 title = "Privacy Policy"
-
 [menu]
 	[menu.main]
 		weight = 3000

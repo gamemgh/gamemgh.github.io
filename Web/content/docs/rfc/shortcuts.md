@@ -12,6 +12,7 @@ title = "Shortcuts of RFC"
 	- On Android, swipe left with 2 fingers.
 - `Enter`: Uses the selected item.
 	- On Android, double tap with 1 finger.
+- `A`: Nearby chocolate makers.
 - `C`: Total chocolates collected.
 	- On Android, double tap with 2 fingers.
 - `T`: Remaining time.

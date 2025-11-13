@@ -12,7 +12,7 @@ Remember, if you get a bad luck you may lose in-game currency instead of being g
 
 ## Features
 Dice Match advertises the following features:
-- Gain in-game currency which can be used across all the games to buy and exchange items.
+- Gain in-game currency which can be used across all the games to purchase and exchange items.
 - Luck dependent for higher win or lose.
 - Headphone is not required.
 - Keyboard is not required; Android gestures fully supported.

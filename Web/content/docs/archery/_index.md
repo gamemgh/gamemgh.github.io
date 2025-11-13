@@ -18,8 +18,8 @@ If you get more than or equal to the points required for that round, you win. Ot
 
 ## Features
 Archery advertises the following features:
-- Gain in-game currency which can be used across all the games to buy and exchange items.
-- 10 rounds, starting at 16 points.
+- Gain in-game currency which can be used across all the games to purchase and exchange items.
+- 10 rounds, 16 points minimum.
 - Maximum 10 points per shot, with each round being 3 shots available.
 - Faster speeds and higher points as the round increases.
 - 1 to 10 times the money worth your total points, with luck dependent.

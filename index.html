@@ -74,13 +74,14 @@ This game will provide you with different mini games and endless hours of gamepl
 <script>
 let totaldownload = 0;
 get_gh_release_info("gamemgh", "gamemgh.github.io").then(v => {
-	document.getElementById("version").textContent = `Version: ${v}`;
+	document.getElementById("version").textContent = `Latest version: ${v}`;
 });
 
 get_gh_release_info("gamemgh", "gamemgh.github.io", "latest", "published_at").then(v => {
-	document.getElementById("version_date").textContent = `Updated on: ${local_datetime_string(v)}`;
+	document.getElementById("version_date").textContent = `Released on: ${local_datetime_string(v)}`;
 });
 </script>
+
 <p>All the links are permanent. Note: all the download counts are calculated only for the latest version.</p>
 <p><a href="https://harrymkt.itch.io/mgh">View on Itch</a></p>
 <p>Here, download links are sorted by operating system that is most tested under.</p>

@@ -2,6 +2,37 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
+## New in version 0.1.4 (build 2026.01.01)
+For more details, check this [early 2026 update blog post](https://gamemgh.github.io/blog/early-2026-update).
+
+### Changes for "Run for Your CHOCOLATES"
+- Added new voices: "Aleesya", "James Nelson".
+- The movement speed is now slightly faster.
+- The maximum X and Y coordinates have been increased to 100.
+- You can now disable character voices that you don't want to use, in the RFC's game settings. Click on "Game specific settings" in the main menu, and select RFC.
+- You will no longer get chocolates directly in your inventory when you kill a chocolate maker. Instead, it will be spawned at the dead location.
+- Every one of the chocolates you get has now weight. The weight format will be displayed depending on the prefer unit you set in the settings.
+- You can now copy messages to clipboard after game is finished.
+- Chocolate makers now move more dynamically, using engine's pathfinder abilities. Please report any bug related to pathfinding if you happened to come across.
+- Added automatic mode! Press `Alt+A`, or swipe down with 2 fingers on Android, to open the actions menu. Each use of the automatic mode costs 1 million dollars.
+
+### General
+- On Windows, updates can now automatically extract the zip.
+- We now have a new modern menu.
+- Android players who use a keyboard have now a new option in the main menu to open settings that allows you to force using form UI controls rather than menu so that you have maximum possible configuration options.
+- Android players who use a keyboard can now type!
+- The Contextual Help System that opens with `Alt+H` has undergone significant changes, first of which is being completely redesigned using new modern form.
+- Endless Battle. Added a new map called "Lion Forest"! Yes, it is a map where only lions are spawned. This map - similar to lion spawn limit resurrection, will only display to those who are resurrection 4 or above.
+- You can now view each game's statistics. As such, there are more statistics available now. Due to this change, all statistics have been automatically cleared.
+- The settings menu (except for Android) has been redesigned with a new UI form system.
+- The in-game downloader system has been redesigned using the new UI form system. Still no support for Android. The system now provides more information about the download.
+- You can now change settings for each game. Currently RFC and Endless Battle have some settings. Please note that this is currently not possible on Android unless you use a keyboard to navigate the form controls.
+- The beta token field in the settings is now a protected field.
+- Added support for both metric and imperial distance units. Configure in the settings. Android has not yet been implemented, unless you use a keyboard to navigate. Metric unit is set to default, since it is global unit.
+- You can now view game help without having to press `Alt+H` inside a game. Simply use the game help icon in the main menu.
+- Added changelog.html file, so you can now read in either Markdown (md) or HTML in the browser.
+- Fixed a bug on Blackjack where the dollars overflow, causing to show incorrect values. Thanks "James Nelson".
+
 ## New in version 0.1.3 (build 2025.10.31)
 - Unfortunately, the translation system has been removed. Check this [blog post](https://gamemgh.github.io/blog/translation-system-removal).
 - Android now works again!

@@ -14,3 +14,5 @@ Sorted by oldest to newest.
 - Jazzyjennifer.
 - Sneha.
 - Angie.
+- Aleesya.
+- James Nelson

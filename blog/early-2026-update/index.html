@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://gamemgh.github.io/scripts/theme.js"></script>
+<link rel="stylesheet" href="https://gamemgh.github.io/css/theme.css">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://gamemgh.github.io/blog/early-2026-update/">
+<link rel="icon" href="https://gamemgh.github.io/favicon.ico" type="image/x-icon">
+<script src="https://gamemgh.github.io/scripts/functions.js"></script>
+<script src="https://gamemgh.github.io/scripts/footer.js"></script>
+<title>Early 2026 Update – Blog – Multi Games Hoard</title>
+</head>
+<body>
+<p><a href="#mainc" class="skip-link">Skip to main content</a></p>
+<p><a href="#navigation" class="skip-link">Skip to navigation menu</a></p>
+<p><a href="#hgfooter" class="skip-link">Skip to footer</a></p>
+<link href="https://gamemgh.github.io/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="https://gamemgh.github.io/pagefind/pagefind-ui.js"></script>
+<div id="sitesearch"></div>
+<nav id="navigation" role="navigation" aria-label="Main Menu">
+<h2>Main Menu</h2>
+<ul style="list-style-type:none;">
+<li><a href="/">Home</a>
+</li>
+<li><a href="/docs/">Documentation</a>
+</li>
+<li><a aria-current="true" class="ancestor" href="/blog/">Blog</a>
+</li>
+<li><a href="/contributors/">Contributors and Credits</a>
+</li>
+<li><a href="/to-do-list/">To Do List</a>
+</li>
+<li><a href="/privacy/">Privacy Policy</a>
+</li>
+</ul>
+</nav>
+
+<main id="mainc" data-pagefind-body>
+<h1>Early 2026 Update</h1>
+<p>Published on <script>document.write(local_datetime_string("2026-01-01T07:00:00+06:30"));</script></p>
+<p>1263 words total</p>
+<p>6 minutes read</p>
+<br>
+<p>Welcome to the year 2026!</p>
+<h2 id="introduction">Introduction</h2>
+<p>Hello everyone! Happy new year! This post will cover changes that have been made into the game to mark the first and early release of version 0.1.4 of 2026, which will be the version with a lot of changes.</p>
+<p>Changes were made to UI designs, system changes, and new features in both per-minigame and global game itself (the MGH) and a big list of changes have also been implemented to RFC, which is now the minigame that becomes popular among players.</p>
+<p>Thank you everybody for suggestions and bug reports; Without each and everyone else's suggestions and bug reports it would have been impossible for the game to even exist in the first place. In addition, thank goes out to voice actors contributed into RFC minigame, you are part of the process that made the RFC popular.</p>
+<h2 id="changes-for-run-for-your-chocolates-rfc">Changes for &quot;Run for Your CHOCOLATES&quot; (RFC)</h2>
+<h3 id="new-voices">New Voices</h3>
+<p>RFC received 2 new voices, &quot;Aleesya&quot; and &quot;James Nelson&quot;; Thanks for the contributions. More voices mean more chocolate makers spawned on the map, so be prepared to avoid them, or in the worse case scenario, to fire them with your fireballs.</p>
+<p>For a reminder, if you want to add a voice to the game, simply record, zip, send, and your voice is live in the next version. More information is also available in the <a href="/docs/rfc/">RFC's documentation</a> section.</p>
+<p>In addition, you can now disable the voices that you don't want to be used and/or listened. Simply use the &quot;Game Specific Settings&quot; icon in the main menu, and select RFC in the list. Unfortunately, on Android, a keyboard's intervention will be needed.</p>
+<h3 id="movement-and-map">Movement and Map</h3>
+<p>The game is also now a little faster to move around. Could this be a more easy way to avoid the chocolate makers and/or to smash them running with fireballs? Well, this is the player's choice after all.</p>
+<p>The map's maximum size has also been increased to 100. This puts the space between 1 chocolate and another, and thus may require more steps to walk up, reach the target, and pick up. This change is also made so that more chocolate makers can spawn.</p>
+<h3 id="chocolates-and-chocolate-makers">Chocolates and Chocolate Makers</h3>
+<p>You will no longer get chocolates directly in your inventory when you kill a chocolate maker. Instead, it will be spawned at the location where the chocolate maker is killed. This means that another chocolate maker nearby (if within their range) sees it, it might pick the chocolates up into their inventory. In this case, use your fireballs, and you will get the chocolates they took from other chocolate makers or from the ground, and also the chocolates they initially have in their inventory when they are spawned.</p>
+<p>Next, each and every one of the chocolates now has its own weight.</p>
+<ul>
+<li>The weight will be displayed in the format set in the global settings. Grams / Kilograms (Metric), and Pounds (Imperial).</li>
+<li>Metric unit is used by default just as the case of the global standard.</li>
+</ul>
+<h3 id="intelligent-chocolate-makers-are-they">Intelligent Chocolate Makers, Are They?</h3>
+<p>Yes, it's correct. Chocolate makers now move more dynamically, using engine's pathfinder abilities. Please report any bug related to pathfinding if you happened to come across.</p>
+<ul>
+<li>They will still actively target you, but in rare cases it can change, see below.</li>
+<li>If they see chocolates on the ground (within 10 meters, about 32 feet), they will shift their target and move to pick them up. At that time, they will no longer target you, until they have picked up the chocolates which will shift their target back to you.</li>
+</ul>
+<h3 id="automatic-mode-really">Automatic Mode, Really?</h3>
+<p>Yes, you've heard right! You can use automatic mode. Well, not everything is controlled of course, but it controls most. To use it, press <code>Alt+A</code> to bring up the actions menu. Each use of the automatic mode costs 1 million dollars. Oh, on Android, swipe down with 2 fingers.</p>
+<ul>
+<li>It controls your movement. Due to this, you will no longer be able to move yourself in this mode.</li>
+<li>It goes and pick up nearest chocolates. This uses the pathfinder again to determine the path.</li>
+<li>It tries to avoid chocolate makers from colliding. However, this is not always possible. At one point or another, the automatic computer may late noticing, and could eventually crash into one of them.</li>
+<li>It goes and pick up fireballs, if within the range of 30 meters, about 98 feet.</li>
+<li>Throwing fireballs will need to be done manually.</li>
+</ul>
+<h2 id="changes-for-endless-battle">Changes for Endless Battle</h2>
+<ul>
+<li>Added a new map called &quot;Lion Forest&quot;, and is available for players with greater or above resurrection 4.</li>
+<li>Similar to chocolate makers in RFC, enemies in Endless Battle now move using pathfinder.</li>
+</ul>
+<h2 id="global-changes">Global Changes</h2>
+<h3 id="ui-related">UI Related</h3>
+<h4 id="new-modern-menu-and-form-systems">New Modern Menu and Form Systems</h4>
+<p>We now have new modern menu and form systems. Menu and form systems are made with the ability to easily maintain. The Games Menu now uses this new modern menu system. The menu system is combined with the new modern form system to maximize the abilities on Android on form based dialogs like <code>Ctrl+F</code> and <code>Ctrl+G</code>, even though keyboard's intervention will still be needed. This modern form system allows Android players using a keyboard to have the ability to type.</p>
+<p>In this new form system, a possibility of keyboard typing sound implementation exists, and is thus added for auditory.</p>
+<h4 id="force-pc-settings-on-android">Force PC Settings on Android.</h4>
+<p>Android players who use a keyboard have now a new option in the main menu to open settings that allows you to force using form UI controls rather than menu so that you have maximum possible configuration options. Be warned that using that option without having a keyboard actually connected will set you in a position where you will not be able to exit the dialog. In this case, force closing the application may be needed.</p>
+<h4 id="per-game-settings">Per-Game Settings</h4>
+<p>You can now configure settings for per-game specific. The spawn time and the item loop sound have also been moved to the new Endless Battle settings dialog. Simply use the &quot;Game Specific Settings&quot; icon in the main menu.</p>
+<h3 id="general">General</h3>
+<h4 id="automatic-update-extraction-layer-on-windows">Automatic Update Extraction Layer on Windows</h4>
+<p>Updates can now automatically extract the zip file. This means that the manual extraction will no longer be needed. This is only possible on Windows.</p>
+<h4 id="statistics-menu">Statistics Menu</h4>
+<p>The statistics menu has been redesigned. It now supports viewing per-game statistics, as well as copying per-game and/or full statistics across all games.</p>
+<p>The way of serializing the statistics has also been redesigned. Due to this change, all statistics have been automatically cleared.</p>
+<h4 id="the-in-game-downloader-system">The In-Game Downloader System</h4>
+<p>The in-game downloader system has been redesigned using new modern UI form system. Please note that support for Android version is still limited, and thus you will need to use a keyboard to browse through the downloader informational fields.</p>
+<ul>
+<li>Keys such as Spacebar, 1, 2, 3, etc, are no longer supported.</li>
+<li>Use the UI form keys to navigate through the informational fields, such as <code>Tab</code> and <code>Shift+Tab</code>.</li>
+<li>The progress bar now feels more realistic, as it is part of the UI form system.</li>
+</ul>
+<h4 id="unit-system">Unit System</h4>
+<p>The display of distance has been redesigned. It now uses 2 main units, Metric and Imperial.</p>
+<ul>
+<li>Metric (global unit - default) is used.</li>
+<li>Imperial unit is also supported.</li>
+<li>You can configure it in the global settings dialog.</li>
+</ul>
+<p>The difference in units is as follows:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Metric</th>
+          <th>Imperial</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Meter (m)</td>
+          <td>Feet (ft)</td>
+      </tr>
+      <tr>
+          <td>Kilometers (km)</td>
+          <td>Miles (mi)</td>
+      </tr>
+      <tr>
+          <td>Grams (g)</td>
+          <td>Pounds (lb)</td>
+      </tr>
+      <tr>
+          <td>Kilograms (kg)</td>
+          <td>Pounds (lb)</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="conclusion">Conclusion</h2>
+<p>Well, that's it guys. Please note that you should check the <a href="/changelog/">change log</a> to view the full changes made.</p>
+<p>Lastly, don't forget to read the <a href="/docs/">documentation</a> for a list of shortcuts.</p>
+<p><strong>Happy gaming!</strong></p>
+</main>
+<div id="hgfooter">
+<aside>
+<h2>Useful Links</h2>
+<a href="https://gamemgh.github.io/changelog">Change Log</a>
+<a target="_blank" href="https://t.me/harrymktg">Developer's official Telegram Channel</a>
+</aside>
+<script>addfooter();</script>
+</div>
+
+<script src="https://gamemgh.github.io/scripts/copy.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+  new PagefindUI({ element: "#sitesearch", showSubResults: true });
+});
+</script>
+</body>
+</html>

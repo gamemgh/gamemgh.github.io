@@ -18,13 +18,15 @@ Run for Your CHOCOLATES advertises the following features:
 - Randomized time limits, from 1 (one) minute to 5 (five) minutes.
 - 80 to 200 times the money worth your total number of collected chocolates.
 - Fully Voice Acted Chocolate Makers; See the [Chocolate maker list]({{% relref "voices.md" %}}).
+- An optional automatic mode.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if the chocolate or its maker is in front of you.
 - Keyboard is not required; Android gestures fully supported.
 
 ## Adding a new chocolate maker
 If you want to add your voice to the game:
 1. Record the following sounds. These sounds can be an mp3 or an ogg file, and better if you zip the contents before sending:
-	- One or more sounds for the loop, meaning the sound they make that you can be heard nearby.
-	- One or more sounds when you stepped on the chocolate maker.
+	- One or more sounds for the loop, meaning the sound they make that you can be heard nearby. For them, name like 1, 2, 3.
+	- One or more sounds when you stepped on the chocolate maker. For this, name like hit1, hit2, hit3.
+	- Optional: 1 or more death sounds. For this, name like death1, death2, death3.
 2. Place all the contents in a folder and zip it.
 3. Finally, you can send me.

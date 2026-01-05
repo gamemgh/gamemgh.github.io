@@ -20,3 +20,25 @@ Endless Battle advertises the following features:
 - Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you, with shields and other equipment.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if your enemy is in front of you.
 - A keyboard is recommended on Android. Full gestures cannot be simulated.
+
+## Getting Started
+### Game Play
+When you click the game, it will ask you to select the map you want to play on. For starters, usually main map is the only available options. Select it.
+
+Once the game is loaded:
+- Move around the map and wait for enemies to spawn.
+- Select the weapon you wish to use, and shoot down approaching enemies. Please view the [shortcuts list]({{% relref "shortcuts.md" %}}) for a list of shortcuts.
+- You automatically level up as you killed an enemy.
+
+### Level System
+Level system consists of the following stages, ordered by small to large:
+- You gain experience points by killing enemies.
+- The gained experience points are used to reach to a new level. Each level requires a certain amount of experience points. As you get higher levels, the amount of required experience points required to reach to a new level increases.
+- Whenever you reach to level 1000+your current resurrection, your resurrection increases by 1. If you have, for instance, resurrection 5, you need 1005 levels in order to get to resurrection 6.
+
+### Weapons and Magic
+Available weapons will entirely depend on your level and resurrection. As such, sword is available for starters, and you gain new weapons as you level up.
+
+The game also offers magic spells. For starters, there are no available spells. As you level up, you will gain more and more spells.
+- You need a certain amount of magic energy to be able to cast a spell. The amount of magic energy require is different for each spell.
+- Review the shortcuts list for the shortcut that brings the magic spells menu.

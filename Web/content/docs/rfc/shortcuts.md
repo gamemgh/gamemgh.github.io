@@ -17,3 +17,4 @@ title = "Shortcuts of RFC"
 	- On Android, double tap with 2 fingers.
 - `T`: Remaining time.
 	- On Android, swipe up with 2 fingers.
+- `Alt+A`: Opens actions menu.

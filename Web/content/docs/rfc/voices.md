@@ -4,6 +4,8 @@ layout = 'doc'
 sort_by = "Title"
 +++
 # %title%
+Thank goes out to every person listed here.
+
 Sorted by oldest to newest.
 - Patricus Meow: By [Patricus](https://posix.live).
 - [RachelK](https://www.youtube.com/@rachelkeyte1002).

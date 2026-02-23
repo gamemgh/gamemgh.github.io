@@ -1,6 +1,5 @@
 +++
 title = 'To Do List'
-
 [menu]
   [menu.main]
     weight = 2000

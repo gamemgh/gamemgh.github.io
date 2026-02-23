@@ -10,10 +10,10 @@ This game will provide you with different mini games and endless hours of gamepl
 
 **Warning!** Do not play games assessively, as it could potentially affect your work. Play games only for fun, and do not let them affect your work!
 
-If you have any feedback, let me know using [Telegram](https://t.me/harrymkt).
+If you have any feedback, please let me know using [Telegram](https://t.me/harrymkt).
 
 ## Features{#features}
-- Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the config if you want to start over.
+- Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the configuration if you want to start over.
 - 3D; HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
 - Multiple Mini Games; Play a variety of mini games, from a small [Archery]({{% relref "docs/archery" %}}) to a large mini games like [Endless Battle]({{% relref "docs/endless-battle" %}}).
 - No visual; the game is fully audio-based and optimized for accessibility.
@@ -24,7 +24,11 @@ If you have any feedback, let me know using [Telegram](https://t.me/harrymkt).
 - Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.
 
 ## Requirements and Recommendations{#requirements}
-- Operating system: Windows, Linux, Mac OS, Android.
+- Operating system
+	- Windows
+	- Linux
+	- Mac OS
+	- Android (version 5 or greater)
 - 64 bit system is required.
 - 1 GB ram, 2 GB is recommended.
 - Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.

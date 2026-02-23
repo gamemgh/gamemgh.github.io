@@ -8,7 +8,7 @@ aliases = ["rfc/about"]
 # %title%
 The objective of RFC is to collect as much chocolates as possible in a given time. You will move around a grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them.
 
-Remember, there is 30 percent chance that these chocolate makers would walk as if they are following you. They also have the ability to fly in some cases.
+Remember, there is 30 percent chance that these chocolate makers would walk as if they are following you. They also have the ability to fly in some circumstances, making their movements unpredictable.
 
 Chocolate makers are fully voice acted.
 
@@ -24,7 +24,7 @@ Run for Your CHOCOLATES advertises the following features:
 
 ## Adding a new chocolate maker
 If you want to add your voice to the game:
-1. Record the following sounds. These sounds can be an mp3 or an ogg file, and better if you zip the contents before sending:
+1. Record the following sounds. These sounds can be an mp3 or an ogg file, and is recommended to zip the contents before sending:
 	- One or more sounds for the loop, meaning the sound they make that you can be heard nearby. For them, name like 1, 2, 3.
 	- One or more sounds when you stepped on the chocolate maker. For this, name like hit1, hit2, hit3.
 	- Optional: 1 or more death sounds. For this, name like death1, death2, death3.

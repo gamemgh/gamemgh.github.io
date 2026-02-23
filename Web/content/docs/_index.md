@@ -11,17 +11,17 @@ title = 'Documentation'
 # %title%
 To contribute, site and/or documentation improvements, visit [this repository](https://github.com/gamemgh/gamemgh.github.io).
 
-Note: You can also use the in-game contextual help system (CHS) to get shortcuts of a specific part / game by pressing `Alt+H` anywhere in the game.
+Note: You can also use the in-game contextual help system (CHS) to get shortcuts of a specific part / game by pressing `Alt+H` anywhere in the game. In the recent versions though, you can view help information of a game using "Game Help" icon in the main menu.
 
 ## Installation
-The game is portable, and you do not need a massive set of libraries to install. In most cases, you can run the game almost immediately after you have downloaded. The following is a list of information should the installation failures have occurred.
+The game is portable, and you do not need a massive set of libraries to install. In most cases, you can run the game almost immediately after you have downloaded. The following is a list of information should the installation has failed.
 {{< tab name="Windows" id="win" >}}
 {{< tab name="Android" id="droid" >}}
 {{% tabcontent id="win" visible=true %}}
 ### Installing on Windows
 After you have downloaded the game, you can run the **mgh.exe**, it is portable.
 
-If for any reason the game does not work for you, you should install Microsoft Visual C++ redistributable packages.
+If for any reason the game does not work for you, you should install Microsoft Visual C++ Redistributable Packages.
 {{% /tabcontent %}}
 {{% tabcontent id="droid" %}}
 ### Installing on Android

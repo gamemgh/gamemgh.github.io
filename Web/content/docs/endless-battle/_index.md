@@ -23,12 +23,13 @@ Endless Battle advertises the following features:
 
 ## Getting Started
 ### Game Play
-When you click the game, it will ask you to select the map you want to play on. For starters, usually main map is the only available options. Select it.
+When you click the game, it will ask you to select the map you want to play on. For starters, usually main map is the only available option. Select it.
 
 Once the game is loaded:
 - Move around the map and wait for enemies to spawn.
 - Select the weapon you wish to use, and shoot down approaching enemies. Please view the [shortcuts list]({{% relref "shortcuts.md" %}}) for a list of shortcuts.
 - You automatically level up as you kill enemies.
+- At any time you forgot a specific shortcut, press `Alt+H` to open help menu.
 
 ### Level System
 Level system consists of the following stages, ordered:

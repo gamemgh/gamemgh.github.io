@@ -1,5 +1,4 @@
 +++
-#layout = 'doc'
 sort_by = 'Title'
 title = 'Archery (Mini Game)'
 weight = 4
@@ -22,6 +21,6 @@ Archery advertises the following features:
 - 10 rounds, 16 points minimum.
 - Maximum 10 points per shot, with each round being 3 shots available.
 - Faster speeds and higher points as the round increases.
-- 1 to 10 times the money worth your total points, with luck dependent.
+- 1 to 10 times the money worth your total points, with luck dependent as it is randomized.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if the Plane is in front of you.
 - Keyboard is not required; Android gestures fully supported.

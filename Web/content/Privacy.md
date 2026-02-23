@@ -10,11 +10,11 @@ Last updated: %updated%
 
 This %title% explains how we collect, use, share, and interact with the information.
 
-## Collection of information
+## Collection of Information
 The following information may be collected including explanation of whether they are automatically collected, why they are collected, how long they will save the information, and if it is possible to ask eventual deletion:
 
 ### We may collect your device's mac address, the saved directory, user and/or device name, screen reader, and other necessary information
-- This is sent by you when you give the encrypted text which can be retrieved from the "get information" icon within the game main menu.
+- This is sent by you when you provide the encrypted text which can be retrieved from the "get information" icon within the game main menu.
 - This is collected to improve the issues with that exact device.
 - Information is kept until the issue is resolved.
 - Deletion request is not available.
@@ -27,11 +27,11 @@ The following information may be collected including explanation of whether they
 
 ### We may collect your name, and optionally email or home page (website), or other necessary contact details
 - This happens when you [contribute]({{% relref "contribute.md" %}}), or any way that involves in the contributions with the game
-- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), or other categories. This information may be displayed with or without your knowledge depending on the case.
+- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), or other categories. This information may be displayed with or without your knowledge depending on the specific circumstance.
 - This is primarily collected permanently.
-- If you ask to delete the information, we would comply, and you'd be removed from the list.
+- If you ask to delete the information, we would comply, and you would be removed from the list.
 
-## Use of information
+## Use of Information
 We use the information we collect:
 - For stability of the website and the game.
 - To reduce spam and provide you with a smooth connection between you and our website or the game.

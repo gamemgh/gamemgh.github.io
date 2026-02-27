@@ -25,10 +25,10 @@ If you have any feedback, please let me know using [Telegram](https://t.me/harry
 
 ## Requirements and Recommendations{#requirements}
 - Operating system
-	- Windows
+	- Windows (7 minimum)
 	- Linux
 	- Mac OS
-	- Android (version 5 or greater)
+	- Android (version 5+)
 - 64 bit system is required.
 - 1 GB ram, 2 GB is recommended.
 - Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
@@ -46,7 +46,7 @@ Please note that these requirements and recommendations may be updated at any ti
 
 All the links are permanent. Note: all the download counts are calculated only for the latest version.
 
-[View on Itch](https://harrymkt.itch.io/mgh)
+[View on Itch](https://harrymk.itch.io/mgh)
 
 Here, download links are sorted by operating system that is most tested under.
 
@@ -59,4 +59,4 @@ download for:
 ## Donation
 This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate. Thanks if you do so, I would appreciate it!
 - [PayPal](https://paypal.me/harrymk64)
-- [Donate on Itch](https://harrymkt.itch.io/mgh)
+- [Donate on Itch](https://harrymk.itch.io/mgh)

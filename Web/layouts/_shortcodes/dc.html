@@ -4,7 +4,7 @@
 const {{ $id | safeJS }} = document.getElementById("{{ $id | safeJS }}");
 if ({{ $id | safeJS }}) {
 	get_gh_asset_info("gamemgh", "gamemgh.github.io", "{{ $file }}").then(t => {
-		{{ $id | safeJS }}.textContent = `Download count: ${t.download_count}`;
+		{{ $id | safeJS }}.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
 	});

@@ -1,5 +1,5 @@
 name: Bug Report
-description: Create a report to help us improve
+description: Create a report to help us improve the game
 title: "Bug: "
 labels: ["bug"]
 body:
@@ -19,7 +19,7 @@ body:
     attributes:
       label: Steps to reproduce
       description: How to reproduce this issue?
-      placeholder:  |
+      placeholder: |
         1. Go to '...'
         2. Click on '....'
         3. Scroll down to '....'

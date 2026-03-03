@@ -32,7 +32,7 @@ How it works?
 That's all about translation.
 
 ## New Mini Game (Archery)
-In [Archery]({{% relref "/docs/archery/_index.md" %}}), Your task is to shoot a flying plane that is moving from left to right over and over again. If you success up to 10 rounds, you get in-game currency. This game fully supports Android gestures.
+In [Archery]({{% ref "/docs/archery/_index.md" %}}), Your task is to shoot a flying plane that is moving from left to right over and over again. If you success up to 10 rounds, you get in-game currency. This game fully supports Android gestures.
 
 ## Coordinates Disabled
 In Endless Battle game, you will no longer be able to check your coordinates. This is because I think this is unnecessary.
@@ -40,8 +40,8 @@ In Endless Battle game, you will no longer be able to check your coordinates. Th
 One key removed, this means one key left for other necessary operations!
 
 ## Conclusion
-Well, that's it guys. Please note that you should check the [change log]({{% relref "/changelog.md" %}}) to view the full changes made.
+Well, that's it guys. Please note that you should check the [change log]({{% ref "/changelog.md" %}}) to view the full changes made.
 
-Lastly, don't forget to read the [documentation]({{% relref "/docs/_index.md" %}}) for a list of shortcuts.
+Lastly, don't forget to read the [documentation]({{% ref "/docs/_index.md" %}}) for a list of shortcuts.
 
 **Happy gaming!**

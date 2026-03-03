@@ -16,7 +16,7 @@ Thank you everybody for suggestions and bug reports; Without each and everyone e
 ### New Voices
 RFC received 2 new voices, "Aleesya" and "James Nelson"; Thanks for the contributions. More voices mean more chocolate makers spawned on the map, so be prepared to avoid them, or in the worse case scenario, to fire them with your fireballs.
 
-For a reminder, if you want to add a voice to the game, simply record, zip, send, and your voice is live in the next version. More information is also available in the [RFC's documentation]({{% relref "/docs/rfc/_index.md" %}}) section.
+For a reminder, if you want to add a voice to the game, simply record, zip, send, and your voice is live in the next version. More information is also available in the [RFC's documentation]({{% ref "/docs/rfc/_index.md" %}}) section.
 
 In addition, you can now disable the voices that you don't want to be used and/or listened. Simply use the "Game Specific Settings" icon in the main menu, and select RFC in the list. Unfortunately, on Android, a keyboard's intervention will be needed.
 
@@ -93,8 +93,8 @@ The difference in units is as follows:
 | Kilograms (kg) | Pounds (lb) |
 
 ## Conclusion
-Well, that's it guys. Please note that you should check the [change log]({{% relref "/changelog.md" %}}) to view the full changes made.
+Well, that's it guys. Please note that you should check the [change log]({{% ref "/changelog.md" %}}) to view the full changes made.
 
-Lastly, don't forget to read the [documentation]({{% relref "/docs/_index.md" %}}) for a list of shortcuts.
+Lastly, don't forget to read the [documentation]({{% ref "/docs/_index.md" %}}) for a list of shortcuts.
 
 **Happy gaming!**

@@ -5,7 +5,7 @@ title = "Contributors and Credits"
 		weight = 1000
 +++
 # %title%
-This is a list of contributors who had assisted the game better. Looking for ways to contribute? Remember, even feedbacks and suggestions count in contribution. Check [how to contribute]({{% relref "contribute.md" %}}).
+This is a list of contributors who had assisted the game better. Looking for ways to contribute? Remember, even feedbacks and suggestions count in contribution. Check [how to contribute]({{% ref "contribute.md" %}}).
 
 ## General
 - [Harry Min Khant](https://harrymkt.github.io): Project founder, the core developer.

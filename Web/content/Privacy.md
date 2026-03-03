@@ -26,8 +26,8 @@ The following information may be collected including explanation of whether they
 - Deletion request is not available.
 
 ### We may collect your name, and optionally email or home page (website), or other necessary contact details
-- This happens when you [contribute]({{% relref "contribute.md" %}}), or any way that involves in the contributions with the game
-- This is collected to display in the [contributions list]({{% relref "contributors.md" %}}), or other categories. This information may be displayed with or without your knowledge depending on the specific circumstance.
+- This happens when you [contribute]({{% ref "contribute.md" %}}), or any way that involves in the contributions with the game
+- This is collected to display in the [contributions list]({{% ref "contributors.md" %}}), or other categories. This information may be displayed with or without your knowledge depending on the specific circumstance.
 - This is primarily collected permanently.
 - If you ask to delete the information, we would comply, and you would be removed from the list.
 

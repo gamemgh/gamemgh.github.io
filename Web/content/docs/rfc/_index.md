@@ -17,7 +17,7 @@ Run for Your CHOCOLATES advertises the following features:
 - Gain in-game currency which can be used across all the games to purchase and exchange items.
 - Randomized time limits, from 1 (one) minute to 5 (five) minutes.
 - 80 to 200 times the money worth your total number of collected chocolates.
-- Fully Voice Acted Chocolate Makers; See the [Chocolate maker list]({{% relref "voices.md" %}}).
+- Fully Voice Acted Chocolate Makers; See the [Chocolate maker list]({{% ref "voices.md" %}}).
 - An optional automatic mode.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if the chocolate or its maker is in front of you.
 - Keyboard is not required; Android gestures fully supported.

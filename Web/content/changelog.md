@@ -2,7 +2,22 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
-## New in version 0.1.4 (build 2026.01.01)
+## New in Version 0.1.5 (build 2026.03.16)
+### Changes for "Run for Your CHOCOLATES"
+- You can now view information of chocolate makers in the RFC's settings next to Preview Voice button.
+- Added a new voice: "Mochi".
+- Added an option in RFC's settings to disable asking to copy messages to the clipboard after the game is finished. Thanks "RachelK" for her suggestion.
+- The fireball detection range in automatic mode has been made random, from 30 meters (about 98 feet) to 50 meters (about 164 feet), which will now be randomized.
+- Chocolate makers can now detect chocolates within 20 meters (about 65 feet).
+
+### General
+- Improved Android touch gestures. Now, in Endless Battle, single tap with 1 finger to fire your weapon.
+- Improved new menus. They now have sounds.
+- Most of the menus in the game are now using new menu system.
+- The game no longer uses CURL plugin to download. Testing on Android may still be needed to see if it can download.
+- Global Settings dialog now uses categories, providing more flexibility.
+
+## New in Version 0.1.4 (build 2026.01.01)
 For more details, check this [early 2026 update blog post](https://gamemgh.github.io/blog/early-2026-update).
 
 ### Changes for "Run for Your CHOCOLATES"

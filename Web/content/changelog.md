@@ -2,7 +2,7 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
-## New in Version 0.1.5 (build 2026.03.16)
+## New in Version 0.1.5 (build 2026.03.19)
 ### Changes for "Run for Your CHOCOLATES"
 - You can now view information of chocolate makers in the RFC's settings next to Preview Voice button.
 - Added a new voice: "Mochi".

@@ -2,7 +2,13 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
-## New in Version 0.1.5 (build 2026.03.19)
+## New in Version 0.1.6 (Build 2026.03.24)
+### General Changes
+- Improved shortcut detection, with the exception of Android.
+- Fixed the bug where sounds will not disappear upon the game is finished in RFC.
+- Reorganized global setting categories.
+
+## New in Version 0.1.5 (Build 2026.03.19)
 ### Changes for "Run for Your CHOCOLATES"
 - You can now view information of chocolate makers in the RFC's settings next to Preview Voice button.
 - Added a new voice: "Mochi".
@@ -17,7 +23,7 @@ title = "Multi Games Hoard Changes"
 - The game no longer uses CURL plugin to download. Testing on Android may still be needed to see if it can download.
 - Global Settings dialog now uses categories, providing more flexibility.
 
-## New in Version 0.1.4 (build 2026.01.01)
+## New in Version 0.1.4 (Build 2026.01.01)
 For more details, check this [early 2026 update blog post](https://gamemgh.github.io/blog/early-2026-update).
 
 ### Changes for "Run for Your CHOCOLATES"
@@ -48,7 +54,7 @@ For more details, check this [early 2026 update blog post](https://gamemgh.githu
 - Added changelog.html file, so you can now read in either Markdown (md) or HTML in the browser.
 - Fixed a bug on Blackjack where the dollars overflow, causing to show incorrect values. Thanks "James Nelson".
 
-## New in version 0.1.3 (build 2025.10.31)
+## New in version 0.1.3 (Build 2025.10.31)
 - Unfortunately, the translation system has been removed. Check this [blog post](https://gamemgh.github.io/blog/translation-system-removal).
 - Android now works again!
 - Changes for RFC mini game; These are changes that have been applied to Run for Your CHOCOLATES mini game and thus it is best to group them into 1 for readability:
@@ -60,21 +66,21 @@ For more details, check this [early 2026 update blog post](https://gamemgh.githu
 	- You can now press the `A` key to look nearest chocolate makers that are within 25 meters, along with some information.
 - Added check for beta updates icon in the main menu. This icon requires a token, and thus only those who has access to beta can type. The token may change over time.
 
-## New in version 0.1.2 (build 2025.09.12)
+## New in version 0.1.2 (Build 2025.09.12)
 - Added a new mini game called Run for Your CHOCOLATES (RFC). The objective of the game is to collect as much chocolates as possible in a given time. You will move around a 75 by 75 grid, with no jumping capability. Listen carefully for chocolate makers. They have the ability to make you lose your chocolates, or lose the game instantly if you are to step on them. Be warned, that 30 percent of them can also walk to you. Thanks several players (found in documentation of the game) for voice acting as chocolate makers!
 - Revert the game back to old sound system to resolve game crashing issues. You might experience no sound as of this change. You can change the device in the settings if that is the case. The best thing of the old sound system is the ability to set to default device back, so you do not need to worry about sound device changes. Unfortunate, this disables the Android build. Sorry for Android players, but the game can no longer run on Android. We will be fixing it as soon as possible mainly with the new sound system / plugin loading.
 - The CHS system that opens with `Alt+H` now receives a new control called sound overview, which basically displays the sounds that you can listen and learn. This control changes depending on the topic you have selected. You can press `F2` in the sound overview list to play the selected sound.
 - Changed menu sounds.
 - Added a sound when you drink the potion in Endless Battle.
 
-## New in version 0.1.1 (build 2025.08.10)
+## New in version 0.1.1 (Build 2025.08.10)
 - Added contextual help system (CHS). Press `Alt + H` and it will display help. You can also press the shortcuts and listen their info in the keyboard area in realtime. The help topics are english builds. Also, this system is not currently available on Android unless if you are using a keyboard to navigate.
 - Translation / language improvements:
 	- Added an icon in the main menu to check for fallback language updates so that you do not need to change to english every time you want to get updates for translation.
 	- Languages will now automatically refresh if needed.
 	- All previous languages have been converted to be compatible with the new system. Download from the language downloader.
 
-## New in version 0.1.0 (build 2025.07.05)
+## New in version 0.1.0 (Build 2025.07.05)
 - Warning. After updating, you might lose your data because of a change in data directory retrieving system. This is system dependent. If your data is somehow unavailable, review the path in the settings so you can make necessary corrections, for example moving the files when needed. This is the last adjustment to the data directory. Android devices can now save the game data!
 - Language translation system has been changed. You can now click an icon in the main menu called "Language Manager". Due to this, all languages have been cleared and we apoligize for it. This system is good because it makes updating keys easier than before and you can test your translations without leaving the game. After translating you can send to me as before, but this time, 1 file only.
 - Fixed language downloader detecting languages incorrectly. Thanks "Rafael Brito" for the report.
@@ -86,7 +92,7 @@ For more details, check this [early 2026 update blog post](https://gamemgh.githu
 - Readable time days, hours, minutes, seconds, and milliseconds can now be translated.
 - Added download system in the game. Unfortunately Android has not been tested.
 
-## New in version 0.0.9 (build 2025.04.02)
+## New in version 0.0.9 (Build 2025.04.02)
 - Changed the name to Multi Games Hoard to resolve copyright name and DMCA issues. This change does not affect players much though, because the website and general short form of the game's name is left untouched. Note: to get your data back, go to appdata folder, then rename the previous game's name folder to MGH, then put it in a folder called HarryMK. You will need to create that folder, or you can also open the game so it will automatically create for you then you can copy the folder and rename it.
 - Added Statistics Menu to display your statistics. Thanks "Lamar" for the suggestion. The number of available Statistics is currently small but will be expanded in the future.
 - Added 2 questions when the English language does not exist in the folder. This means that the English folder is not required now, but these questions will be constantly asked every time you run the game. This is a temporary issue to resolve a Mac OS directory checking issue, so it might be taken away in the future, because English should be there to replace the keys that are not translated in your language, either it is outdated or the keys do not exist. There is also an option in the settings to disable this warning, but this option is never translated.
@@ -100,13 +106,13 @@ For more details, check this [early 2026 update blog post](https://gamemgh.githu
 	- Enemy voices will now randomize depending on how much voices the enemy has. Thanks "Blue Ken Sunshine" for the suggestion!
 	- Enemies now possess the capacity for mutual combat; they will attack and eliminate each other if within attack range, but do not actively move towards each other to initiate such engagements. You can exploit this by strategically positioning enemies. For example, by moving around a combat area - to the right, then left, then back again - you can manipulate enemy proximity, causing them to attack each other, thus reducing the overall threat. When you think their health is low enough, for instance, you can shoot them once, avoiding 2 bullets.
 
-## New in version 0.0.8 (build 2025.03.15)
+## New in version 0.0.8 (Build 2025.03.15)
 - The game will no longer run if the fallback language (en) cannot be found in the folder.
 - Translation languages now require config.toml file be present in the root folder of the language. Copy the config.toml from English language (en) and replace with your own configuration values. See the translations documentation first for more information if you are unsure about it.
 - You can no longer set the same language when choosing in the language selection menu.
 - Added a menu to download the languages you want! Due to this, only English is added in official game release to prevent increasing size, and go download other languages (if available) if you want to use them. Regardless of what languages you download, you must never delete the English folder or the game will not run as indicated by above change.
 
-## New in version 0.0.7 (build 2025.03.13)
+## New in version 0.0.7 (Build 2025.03.13)
 - Added translation system! This is still in its early development, and all strings might not be available to translate. Translations live in the lang folder, with a subfolder with the language code prefix. To translate the program, copy the main fallback translation folder (en) with your own language prefix. After translations you may send to me.
 - You can now copy menu items with Control+C, or triple tap with three fingers on Android.
 - Introducing a new mini game (Archery)! This is a game where you will shoot a flying plane that is moving from side to side. This game fully supports Android gestures. Read more about the game in the documentation section on the website.
@@ -122,7 +128,7 @@ For more details, check this [early 2026 update blog post](https://gamemgh.githu
 	- You can now get coin as an item when you kill an enemy.
 	- Hitting your target with weapon is now harder as you now need to exactly face in the direction. Better listen, use headphones.
 
-## New in version 0.0.6 (build 2025.01.01)
+## New in version 0.0.6 (Build 2025.01.01)
 First of all, **Happy new year!**
 - Dice Match can now generate below 1 number, in which case you will lose dollar. This is completely randomized anyway. As such, you can now press faster.
 	- Dice Match now has buffer support. Note this is only for non Android users.
@@ -134,7 +140,7 @@ First of all, **Happy new year!**
 	- The game now speaks who kills you as soon as you die.
 	- Fixed bullet shoot range.
 
-## New in version 0.0.5 (build 2024.12.08)
+## New in version 0.0.5 (Build 2024.12.08)
 - Fixed the download URL for update.
 - Changes for Endless Battle mini game; These are changes that have been applied to Endless Battle mini game and thus it is best to group them into 1 for readability as many changes were made:
 	- Items in the map will now play a loop sound which will indicate where they are.
@@ -145,7 +151,7 @@ First of all, **Happy new year!**
 - Added buffer! This means that you can review informations that you have missed. For example, alerts and in-game important notifications. You can press left and right brackets to switch between buffers (holding down Shift will move to top or bottom), and you can press the Comma key or Period key to move through the current buffer (holding down Shift will move to top or bottom). Android gestures not supported.
 - Introducing a new mini-game: Dice Match! The objective is to roll the dice, which contain two numbers, each ranging from 1 to 6. If the two numbers match, you will earn money equal to 0 to 20 times their total. There you go, Android gamers, because this mini game fully supports gestures and thus keyboard is not required!
 
-## New in version 0.0.4 (build 2024.11.17)
+## New in version 0.0.4 (Build 2024.11.17)
 Please note that the Android version still cannot save data.
 - This update Fixes a serious bug that the store item health drink is being incorrect. It is now changed to health potion, which is making wrong item. All health drinks that you have purchased will be transfered to health potion automatically. Thanks "Jes Bel" for report!
 - Computer sequence in Blackjack will now more randomize and does not nearly always win or lose.
@@ -158,7 +164,7 @@ Please note that the Android version still cannot save data.
 - Added test speaker in the main menu to test your speaker's position in realtime.
 - Added the message that will speak upon the click of the "Check for Updates" icon.
 
-## New in version 0.0.3 (build 2024.10.29)
+## New in version 0.0.3 (Build 2024.10.29)
 - Changed the name to Mini Games Hub, and added a new mini game! Of course, new mini game suggestions are always welcome!
 	- In this new mini game, you play blackjack. You can move up and down arrows to navigate through the game's structure. When you gained dollars, you can use them to buy health items, ammos, etc for Endless Battle mini game.
 - Changes for Android; These are changes that have been applied to Android operating system as well as game UI related to it:
@@ -171,7 +177,7 @@ Please note that the Android version still cannot save data.
 - Updates will now include about update build date. Eg build 2024.10.19.
 - Added sounds for update available, started, and canceled.
 
-## New in version 0.0.2 (build 2024.10.19)
+## New in version 0.0.2 (Build 2024.10.19)
 - You can now press F1 on each store item to get its description.
 - Fixed speech interrupting in menus, especially with Android having speech interrupt on. On Android if you want to force speech stop while you are in game play, triple tap with 1 finger.
 - Fixed enemy death sound not playing in the correct listener.
@@ -183,5 +189,5 @@ Please note that the Android version still cannot save data.
 - In-game key shortcuts can now display base on the operating system!
 - Added pluralization strings to items, for instance, store purchases.
 
-## New in version 0.0.1 (build 2024.10.13)
+## New in version 0.0.1 (Build 2024.10.13)
 - First release

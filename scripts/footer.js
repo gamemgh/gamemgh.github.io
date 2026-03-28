@@ -1,4 +1,4 @@
-//footer.
+// Footer.
 function addfooter() {
 	// Create a footer element
 	var footerElement = document.createElement("footer");
@@ -21,4 +21,4 @@ function addfooter() {
 	footerElement.appendChild(copyrightParagraph);
 	// Append the footer to the body or any other target element
 	document.body.appendChild(footerElement);
-}//End
+}

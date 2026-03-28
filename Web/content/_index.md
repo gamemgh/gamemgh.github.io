@@ -25,11 +25,11 @@ If you have any feedback, please let me know using [Telegram](https://t.me/harry
 
 ## Requirements and Recommendations{#requirements}
 - Operating system
-	- Windows (7 minimum)
+	- Windows (7+)
+	- Android (version 5+)
 	- Linux
 	- Mac OS
-	- Android (version 5+)
-- 64 bit system is required.
+- 64-bit system is required.
 - 1 GB ram, 2 GB is recommended.
 - Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
 - Headphones or speakers; optional but recommended. Again, this depends on the mini game you play.

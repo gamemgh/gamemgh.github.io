@@ -1,5 +1,5 @@
 +++
-date = 2025-09-25T22:00:00+06:30
+date = 2026-03-03T19:22:00+06:30
 title = "Privacy Policy"
 [menu]
 	[menu.main]

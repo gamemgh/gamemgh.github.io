@@ -2,6 +2,7 @@ cleanDestinationDir = true
 publishDir = "HTML"
 title = "Multi Games Hoard"
 baseURL = "https://gamemgh.github.io"
+enableGitInfo = true
 theme = "hguinav"
 [taxonomies]
 	category = "categories"

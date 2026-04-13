@@ -1,5 +1,6 @@
 +++
 date = '2024-10-02T20:34:00+06:30'
+lastmod = '2024-10-02T20:34:00+06:30'
 title = 'Introduction'
 +++
 Hello everyone! Endless Battle game is being redeveloped after I lost my hard disk talked about in this [blog post](https://harrymkt.github.io/blog/new-chapter-begins/)

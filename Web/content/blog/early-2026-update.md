@@ -1,5 +1,6 @@
 +++
 date = "2026-01-01T07:00:00+06:30"
+lastmod = "2026-01-01T07:00:00+06:30"
 title = "Early 2026 Update"
 +++
 Welcome to the year 2026!

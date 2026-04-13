@@ -1,5 +1,6 @@
 +++
 date = '2025-03-13T11:00:00+06:30'
+lastmod = '2025-03-13T11:00:00+06:30'
 title = 'March 2025 Update'
 +++
 Hello everyone! I would like to inform all players about this March 2025 update that contains a large improvements and new features.

@@ -1,5 +1,6 @@
 +++
 date = "2025-09-12T15:00:00+06:30"
+lastmod = "2025-09-12T15:00:00+06:30"
 title = "September  2025 Update"
 +++
 Hello. I want to share everyone about what's happening as of now.

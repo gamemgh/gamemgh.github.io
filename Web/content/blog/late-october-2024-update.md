@@ -1,5 +1,6 @@
 +++
 date = '2024-10-29T11:35:00+06:30'
+lastmod = '2024-10-29T11:35:00+06:30'
 title = 'Late October 2024 Update'
 +++
 Hello everyone! I would like to inform all players about this October 2024 update that contains a large improvements and a few new features.

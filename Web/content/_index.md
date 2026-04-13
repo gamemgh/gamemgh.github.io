@@ -4,29 +4,30 @@ title = "Home"
 	[menu.main]
 		weight = 1
 +++
-# %title%
+# The %title% of Multi Games Hoard (MGH)
 Welcome to Multi Games Hoard, an offline set of many mini games bundled into one game for visually impaired!
 This game will provide you with different mini games and endless hours of gameplay until you stop. We developed this game for fun and entertainment, and thank you for visiting!
 
 **Warning!** Do not play games assessively, as it could potentially affect your work. Play games only for fun, and do not let them affect your work!
 
-If you have any feedback, please let me know using [Telegram](https://t.me/harrymkt).
+If you have any feedback, please let me know using one of the [contact methods](https://harrymkt.github.io/contact) available.
 
 ## Features{#features}
-- Endless; play the game endlessly and stop whenever you want. There is no pause button, just quit if you want to stop playing, and your data will always be saved. Delete the configuration if you want to start over.
-- 3D; HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
-- Multiple Mini Games; Play a variety of mini games, from a small [Archery]({{% ref "docs/archery" %}}) to a large mini games like [Endless Battle]({{% ref "docs/endless-battle" %}}).
-- No visual; the game is fully audio-based and optimized for accessibility.
-- Play directly with your screen reader. NVDA has already been tested.
-- Documentation; read the fully written comprehensive [documentation]({{% ref "docs" %}}) to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
-- Open Source documentation; [contribute to documentation]({{% ref "contribute.md" %}}) if they are out of date or have not been written.
-- Portability; the game is portable. Extract the zip and start playing!
-- Cross platform; play the game in Windows, Mac OS, Linux, and Android, with I-OS to be made available in the future.
+MGH advertises the following features:
+- Endless: Play the game endlessly and stop whenever you want. There is no pause button; just quit if you want to stop playing, and your data will always be saved. Delete the configuration if you want to restart.
+- 3D: HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
+- Multiple Mini Games: Play a variety of mini games, from a small [Archery]({{% ref "docs/archery" %}}) to a large mini games like [Endless Battle]({{% ref "docs/endless-battle" %}}).
+- No Visual: The game is fully audio-based and optimized for accessibility.
+- Play directly with your screen reader: NVDA has already been tested.
+- Documentation: Read the fully written comprehensive [documentation]({{% ref "docs" %}}) to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
+- Open Source Documentation: [Contribute to documentation]({{% ref "contribute.md" %}}) if they are out of date or have not been written.
+- Portability: The game is portable. Extract the zip and start playing!
+- Cross-platform: Tlay the game in Windows, Mac OS, Linux, and Android, with iOS to be made available in the future.
 
 ## Requirements and Recommendations{#requirements}
-- Operating system
+- Operating system:
 	- Windows (7+)
-	- Android (version 5+)
+	- Android (5+)
 	- Linux
 	- Mac OS
 - 64-bit system is required.

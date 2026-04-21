@@ -34,8 +34,8 @@ MGH advertises the following features:
 - 1 GB ram, 2 GB is recommended.
 - Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
 - Headphones or speakers; optional but recommended. Again, this depends on the mini game you play.
-- A keyboard is required/recommended to play on Android! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like [Endless Battle]({{% ref "docs/endless-battle" %}}). Keyboard requirement will be clearly documented in about section of each mini game.
-- Android version is currently limited until further notice. For example, touch gestures are limited, you cannot type input, some systems only work using a keyboard etc.
+- A keyboard is required/recommended to play on mobile devices! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like [Endless Battle]({{% ref "docs/endless-battle" %}}). Keyboard requirement will be clearly documented in about section of each mini game.
+- Mobile version is currently limited until further notice. For example, touch gestures are limited; you cannot type input; some systems only work using a keyboard etc.
 
 Please note that these requirements and recommendations may be updated at any time.
 
@@ -45,7 +45,9 @@ Please note that these requirements and recommendations may be updated at any ti
 <p id="totaldownload"></p>
 {{< gh >}}
 
-All the links are permanent. Note: all the download counts are calculated only for the latest version.
+All the links are permanent.
+
+Note: all the download counts are calculated only for the latest version.
 
 [View on Itch](https://harrymk.itch.io/mgh)
 

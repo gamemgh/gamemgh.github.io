@@ -20,7 +20,7 @@ Run for Your CHOCOLATES advertises the following features:
 - Fully Voice Acted Chocolate Makers; See the [Chocolate maker list]({{% ref "voices.md" %}}).
 - An optional automatic mode.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if the chocolate or its maker is in front of you.
-- Keyboard is not required; Android gestures fully supported.
+- Keyboard is not required; gestures fully supported.
 
 ## Adding a new chocolate maker
 If you want to add your voice to the game:

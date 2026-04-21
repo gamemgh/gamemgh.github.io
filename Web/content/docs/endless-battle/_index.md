@@ -10,7 +10,7 @@ Endless Battle is a 3D shooting game. This is the first game ever available on M
 
 ## Features
 Endless Battle advertises the following features:
-- 3D; play the game in an environment with 3D support. As such, enemies are likely to appear from all side.
+- 3D: Play the game in an environment with 3D support. As such, enemies are likely to appear from all side.
 - The higher your resurrection gets, the new and new weapons you will get.
 - Purchase extra healing items to prevent your loss through in-game currency gained by either killing enemies or playing other mini games like Blackjack to get in-game currency.
 - Use different weapons to kill enemies. Use Grenades to shot down all, Machineguns to make quick sessions kill, and more.
@@ -19,7 +19,7 @@ Endless Battle advertises the following features:
 - Use your hearing to find out where they are.
 - Harder and harder as your resurrection goes higher, with bigger and bigger enemies available to kill you, with shields and other equipment.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if your enemy is in front of you.
-- A keyboard is recommended on Android. Full gestures cannot be simulated.
+- A keyboard is recommended on mobile devices. Full gestures cannot be simulated.
 
 ## Getting Started
 ### Game Play

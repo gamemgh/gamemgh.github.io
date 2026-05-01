@@ -15,4 +15,4 @@ Dice Match advertises the following features:
 - Gain in-game currency which can be used across all the games to purchase and exchange items.
 - Luck dependent for higher win or lose.
 - Headphone is not required.
-- Keyboard is not required; Android gestures fully supported.
+- Keyboard is not required; Gestures fully supported.

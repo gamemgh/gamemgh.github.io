@@ -29,7 +29,7 @@ Once the game is loaded:
 - Move around the map and wait for enemies to spawn.
 - Select the weapon you wish to use, and shoot down approaching enemies. Please view the [shortcuts list]({{% ref "shortcuts.md" %}}) for a list of shortcuts.
 - You automatically level up as you kill enemies.
-- At any time you forgot a specific shortcut, press `Alt+H` to open help menu.
+- At any time you forgot a specific shortcut, press `Alt+H` to open help menu. Alternatively, click an icon called **Game Help** in the main menu and select **Endless Battle**.
 
 ### Level System
 Level system consists of the following stages, ordered:

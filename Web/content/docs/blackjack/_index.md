@@ -11,10 +11,10 @@ In this streamlined version of Blackjack, only cards numbered 1 through 10 are u
 ## Features
 Blackjack advertises the following features:
 - Gain in-game currency which can be used across all the games to purchase and exchange items.
-- Numbers only; use 1 to 10 numbers and get a total of 21.
-- Wish your luck. Will you hit another card? Will you stand with what you have? Or better yet, will your best of luck pull you over to win double your bidding? Everything is determined by it!
+- Numbers only: Use 1 to 10 numbers and get a total of 21.
+- Wish your luck: Will you hit another card? Will you stand with what you have? Or better yet, will your best of luck pull you over to win double your bidding? Everything is determined by it!
 - Headphone is not required.
-- Keyboard is not required; Android gestures fully supported.
+- Keyboard is not required; gestures fully supported.
 
 ## What is the Game Tab?
 The game tab shows the relevant items based on the selected mode. By default, it’s set to Player mode, where you can see all your cards, along with the count and total.

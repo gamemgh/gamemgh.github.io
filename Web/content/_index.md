@@ -17,7 +17,7 @@ MGH advertises the following features:
 - Endless: Play the game endlessly and stop whenever you want. There is no pause button; just quit if you want to stop playing, and your data will always be saved. Delete the configuration if you want to restart.
 - 3D: HRTF, or Head Related Transform Function, allows you to play the game in a realistic 3D environment. As such, headphone or 3D speakers is recommended.
 - Multiple Mini Games: Play a variety of mini games, from a small [Archery]({{% ref "docs/archery" %}}) to a large mini games like [Endless Battle]({{% ref "docs/endless-battle" %}}).
-- No Visual: The game is fully audio-based and optimized for accessibility.
+- Non Visual: The game is fully audio-based and optimized for accessibility.
 - Play directly with your screen reader: NVDA has already been tested.
 - Documentation: Read the fully written comprehensive [documentation]({{% ref "docs" %}}) to be the master of the gameplay as understanding of the game's structure. Most documentations are up to date because they have been written along with the development.
 - Open Source Documentation: [Contribute to documentation]({{% ref "contribute.md" %}}) if they are out of date or have not been written.
@@ -58,8 +58,3 @@ download for:
 - [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}
 - [Linux]({{< dlurl file="mgh-linux.zip" >}})<span id="dcl"></span>{{< dc id="dcl" file="mgh-linux.zip" >}}
 - [Mac OS]({{< dlurl file="mgh.app.zip" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh.app.zip" >}}
-
-## Donation
-This game is completely free. When we speak free, it is completely free. No fees. However, if you love this game and want to buy me a coffee, you can donate. Thanks if you do so, I would appreciate it!
-- [PayPal](https://paypal.me/harrymk64)
-- [Donate on Itch](https://harrymk.itch.io/mgh)

@@ -23,4 +23,4 @@ Archery advertises the following features:
 - Faster speeds and higher points as the round increases.
 - 1 to 10 times the money worth your total points, with luck dependent as it is randomized.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if the Plane is in front of you.
-- Keyboard is not required; Android gestures fully supported.
+- Keyboard is not required; gestures fully supported.

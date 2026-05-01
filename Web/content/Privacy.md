@@ -1,5 +1,6 @@
 +++
 date = 2026-04-21T11:40:00+06:30
+lastmod = 2026-04-21T11:40:00+06:30
 title = "Privacy Policy"
 [menu]
 	[menu.main]

@@ -100,7 +100,7 @@ if (dcw) {
 	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.zip").then(t => {
 		dcw.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
-		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+		document.getElementById("totaldownload").textContent = `Total downloads: ${totaldownload}`;
 	});
 }
 </script>
@@ -111,7 +111,7 @@ if (dca) {
 	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.apk").then(t => {
 		dca.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
-		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+		document.getElementById("totaldownload").textContent = `Total downloads: ${totaldownload}`;
 	});
 }
 </script>
@@ -122,7 +122,7 @@ if (dcl) {
 	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh-linux.zip").then(t => {
 		dcl.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
-		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+		document.getElementById("totaldownload").textContent = `Total downloads: ${totaldownload}`;
 	});
 }
 </script>
@@ -133,7 +133,7 @@ if (dcmos) {
 	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.app.zip").then(t => {
 		dcmos.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
-		document.getElementById("totaldownload").textContent = `Total downloads for the latest version: ${totaldownload}`;
+		document.getElementById("totaldownload").textContent = `Total downloads: ${totaldownload}`;
 	});
 }
 </script>
@@ -159,6 +159,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
   new PagefindUI({ element: "#sitesearch", showSubResults: true });
 });
 </script>
-<p>This site is last updated <script>document.write(ts_to_readable_time(get_timestamp("2026-05-01T13:41:33+06:30"), false, "", false));</script> ago</p>
+<p>This site is last updated <script>document.write(ts_to_readable_time(get_timestamp("2026-05-13T13:40:50+06:30"), false, "", false));</script> ago</p>
 </body>
 </html>

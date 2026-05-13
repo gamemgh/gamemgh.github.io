@@ -18,3 +18,4 @@ title = "Shortcuts of RFC"
 - `T`: Remaining time.
 	- On mobile, swipe up with 2 fingers.
 - `Alt+A`: Opens actions menu.
+	- On mobile, swipe down with 2 fingers.

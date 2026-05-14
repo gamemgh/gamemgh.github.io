@@ -38,15 +38,39 @@
 </nav>
 <main id="mainc" data-pagefind-body>
 <h1 id="multi-games-hoard-changes">Multi Games Hoard Changes</h1>
-<h2 id="new-in-version-016-build-20260324">New in Version 0.1.6 (Build 2026.03.24)</h2>
+<h2 id="new-in-version-017-build-20260514">New in Version 0.1.7 (Build 2026.05.14)</h2>
 <h3 id="general-changes">General Changes</h3>
+<ul>
+<li>Improved menus and buffer.</li>
+<li>You can now press Escape or Backspace to cancel checking for updates.</li>
+<li>Added new keyboard sounds.</li>
+<li>Change log files are now moved into a folder called &quot;docs&quot;.</li>
+<li>Updates will now show more information, including download size and change log if requested. Warning: Detailed information dialog is a form, so it may not work for mobile players who only use touch gestures.</li>
+<li>Mac OS's file name is now <strong>mgh-mac.iso</strong>, and Linux's file name is now <strong>mgh-linux.tar.gz</strong>. This is NVGT's default now, so please provide bug report if you find anything.</li>
+<li>Replaced update extraction script for Windows. Hopefully it should now work as expected as it contains fallback back to PowerShell if Tar failed.</li>
+<li>Added a new username configuration option in the settings. This username is different from previously displayed name because this is used for identification purposes. This means that the previous display name now becomes optional and will be set to identification username if it is not set.</li>
+<li>Added scoreboard, you can now submit your per-game score upon completion of a round! Currently score for RFC has been implemented. Be sure to set the identification name in the settings's user information category.</li>
+<li>Redesigned the statistic system a little bit. No data should be lost as it contains fallback parsing.</li>
+<li>Added a notice upon update completion on Windows that if it fails to extract, to run the unzip.bat manually.</li>
+</ul>
+<h3 id="changes-for-run-for-your-chocolates">Changes for &quot;Run for Your CHOCOLATES&quot;</h3>
+<ul>
+<li>The button to enable all character voices in the settings is now contextual and will inform you if it enables 0 voices.</li>
+<li>Improved pathfinder find time. Hopefully the game would not crash due to pathfinding.</li>
+<li>There is now 20 percent chance you could gain multiplier addition.</li>
+<li>Added a new chocolate maker, &quot;DJ&quot;.</li>
+<li>Added more information to Chocolate Maker Information field. It now contains author name and URL if present.</li>
+<li>Cursor in Chocolate Maker Information field will now be automatically set to 0 every time you change the list's position so that the first character in the field can be read instead of having to press <code>Ctrl+Home</code> manually.</li>
+</ul>
+<h2 id="new-in-version-016-build-20260324">New in Version 0.1.6 (Build 2026.03.24)</h2>
+<h3 id="general-changes-1">General Changes</h3>
 <ul>
 <li>Improved shortcut detection, with the exception of Android.</li>
 <li>Fixed the bug where sounds will not disappear upon the game is finished in RFC.</li>
 <li>Reorganized global setting categories.</li>
 </ul>
 <h2 id="new-in-version-015-build-20260319">New in Version 0.1.5 (Build 2026.03.19)</h2>
-<h3 id="changes-for-run-for-your-chocolates">Changes for &quot;Run for Your CHOCOLATES&quot;</h3>
+<h3 id="changes-for-run-for-your-chocolates-1">Changes for &quot;Run for Your CHOCOLATES&quot;</h3>
 <ul>
 <li>You can now view information of chocolate makers in the RFC's settings next to Preview Voice button.</li>
 <li>Added a new voice: &quot;Mochi&quot;.</li>
@@ -64,7 +88,7 @@
 </ul>
 <h2 id="new-in-version-014-build-20260101">New in Version 0.1.4 (Build 2026.01.01)</h2>
 <p>For more details, check this <a href="https://gamemgh.github.io/blog/early-2026-update">early 2026 update blog post</a>.</p>
-<h3 id="changes-for-run-for-your-chocolates-1">Changes for &quot;Run for Your CHOCOLATES&quot;</h3>
+<h3 id="changes-for-run-for-your-chocolates-2">Changes for &quot;Run for Your CHOCOLATES&quot;</h3>
 <ul>
 <li>Added new voices: &quot;Aleesya&quot;, &quot;James Nelson&quot;.</li>
 <li>The movement speed is now slightly faster.</li>
@@ -298,6 +322,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
   new PagefindUI({ element: "#sitesearch", showSubResults: true });
 });
 </script>
-<p>This site is last updated <script>document.write(ts_to_readable_time(get_timestamp("2026-05-13T13:40:50+06:30"), false, "", false));</script> ago</p>
+<p>This site is last updated <script>document.write(ts_to_readable_time(get_timestamp("2026-05-14T17:02:16+06:30"), false, "", false));</script> ago</p>
 </body>
 </html>

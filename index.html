@@ -116,10 +116,10 @@ if (dca) {
 }
 </script>
 </li>
-<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh-linux.zip">Linux</a><span id="dcl"></span><script>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh-linux.tar.gz">Linux</a><span id="dcl"></span><script>
 const dcl = document.getElementById("dcl");
 if (dcl) {
-	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh-linux.zip").then(t => {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh-linux.tar.gz").then(t => {
 		dcl.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads: ${totaldownload}`;
@@ -127,10 +127,10 @@ if (dcl) {
 }
 </script>
 </li>
-<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh.app.zip">Mac OS</a><span id="dcmos"></span><script>
+<li><a href="https://github.com/gamemgh/gamemgh.github.io/releases/latest/download/mgh-mac.iso">Mac OS</a><span id="dcmos"></span><script>
 const dcmos = document.getElementById("dcmos");
 if (dcmos) {
-	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh.app.zip").then(t => {
+	get_gh_asset_info("gamemgh", "gamemgh.github.io", "mgh-mac.iso").then(t => {
 		dcmos.textContent = `Downloaded ${t.download_count} times`;
 		totaldownload += t.download_count;
 		document.getElementById("totaldownload").textContent = `Total downloads: ${totaldownload}`;
@@ -159,6 +159,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
   new PagefindUI({ element: "#sitesearch", showSubResults: true });
 });
 </script>
-<p>This site is last updated <script>document.write(ts_to_readable_time(get_timestamp("2026-05-13T13:40:50+06:30"), false, "", false));</script> ago</p>
+<p>This site is last updated <script>document.write(ts_to_readable_time(get_timestamp("2026-05-14T17:02:16+06:30"), false, "", false));</script> ago</p>
 </body>
 </html>

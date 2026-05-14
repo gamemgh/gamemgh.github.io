@@ -2,6 +2,28 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
+## New in Version 0.1.7 (Build 2026.05.14)
+### General Changes
+- Improved menus and buffer.
+- You can now press Escape or Backspace to cancel checking for updates.
+- Added new keyboard sounds.
+- Change log files are now moved into a folder called "docs".
+- Updates will now show more information, including download size and change log if requested. Warning: Detailed information dialog is a form, so it may not work for mobile players who only use touch gestures.
+- Mac OS's file name is now **mgh-mac.iso**, and Linux's file name is now **mgh-linux.tar.gz**. This is NVGT's default now, so please provide bug report if you find anything.
+- Replaced update extraction script for Windows. Hopefully it should now work as expected as it contains fallback back to PowerShell if Tar failed.
+- Added a new username configuration option in the settings. This username is different from previously displayed name because this is used for identification purposes. This means that the previous display name now becomes optional and will be set to identification username if it is not set.
+- Added scoreboard, you can now submit your per-game score upon completion of a round! Currently score for RFC has been implemented. Be sure to set the identification name in the settings's user information category.
+- Redesigned the statistic system a little bit. No data should be lost as it contains fallback parsing.
+- Added a notice upon update completion on Windows that if it fails to extract, to run the unzip.bat manually.
+
+### Changes for "Run for Your CHOCOLATES"
+- The button to enable all character voices in the settings is now contextual and will inform you if it enables 0 voices.
+- Improved pathfinder find time. Hopefully the game would not crash due to pathfinding.
+- There is now 20 percent chance you could gain multiplier addition.
+- Added a new chocolate maker, "DJ".
+- Added more information to Chocolate Maker Information field. It now contains author name and URL if present.
+- Cursor in Chocolate Maker Information field will now be automatically set to 0 every time you change the list's position so that the first character in the field can be read instead of having to press `Ctrl+Home` manually.
+
 ## New in Version 0.1.6 (Build 2026.03.24)
 ### General Changes
 - Improved shortcut detection, with the exception of Android.

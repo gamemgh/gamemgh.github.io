@@ -56,5 +56,5 @@ Here, download links are sorted by operating system that is most tested under.
 download for:
 - [Windows]({{< dlurl file="mgh.zip" >}})<span id="dcw"></span>{{< dc id="dcw" file="mgh.zip" >}}
 - [Android]({{< dlurl file="mgh.apk" >}})<span id="dca"></span>{{< dc id="dca" file="mgh.apk" >}}
-- [Linux]({{< dlurl file="mgh-linux.zip" >}})<span id="dcl"></span>{{< dc id="dcl" file="mgh-linux.zip" >}}
-- [Mac OS]({{< dlurl file="mgh.app.zip" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh.app.zip" >}}
+- [Linux]({{< dlurl file="mgh-linux.tar.gz" >}})<span id="dcl"></span>{{< dc id="dcl" file="mgh-linux.tar.gz" >}}
+- [Mac OS]({{< dlurl file="mgh-mac.iso" >}})<span id="dcmos"></span>{{< dc id="dcmos" file="mgh-mac.iso" >}}

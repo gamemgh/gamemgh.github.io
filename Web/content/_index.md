@@ -32,7 +32,7 @@ MGH advertises the following features:
 	- Mac OS
 - 64-bit system is required.
 - 1 GB ram, 2 GB is recommended.
-- Approximately 50 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
+- Approximately 90 MB of storage is required to store the game. While it is not necessary, twice the required size is recommended to avoid potential data loss in the future updates.
 - Headphones or speakers; optional but recommended. Again, this depends on the mini game you play.
 - A keyboard is required/recommended to play on mobile devices! While the game has gestures available, all tasks cannot be set. So, it is best to play with a keyboard. Please note that keyboard requirement is not for all mini games. Only mini games that require many gestures like [Endless Battle]({{% ref "docs/endless-battle" %}}). Keyboard requirement will be clearly documented in about section of each mini game.
 - Mobile version is currently limited until further notice. For example, touch gestures are limited; you cannot type input; some systems only work using a keyboard etc.

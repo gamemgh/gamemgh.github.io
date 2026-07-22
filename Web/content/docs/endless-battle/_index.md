@@ -6,7 +6,7 @@ weight = 1
 aliases = ["endless-battle/about"]
 +++
 # %title%
-Endless Battle is a 3D shooting game. This is the first game ever available on Multi Games Hoard and is the largest mini game in this collection , because the initial idea is to develop Endless Battle but then got transfered into Multi Games Hoard, with this game being the first to present.
+**Endless Battle** is a 3D shooting game. This is the first game ever available on **Multi Games Hoard** and is the largest mini game in this collection , because the initial idea is to develop Endless Battle but then got transfered into Multi Games Hoard, with this game being the first to present.
 
 ## Features
 Endless Battle advertises the following features:
@@ -23,7 +23,7 @@ Endless Battle advertises the following features:
 
 ## Getting Started
 ### Game Play
-When you click the game, it will ask you to select the map you want to play on. For starters, usually main map is the only available option. Select it.
+When you click the game, it will ask you to select the map you want to play on. For starters, usually **main** map is the only available option. Select it.
 
 Once the game is loaded:
 - Move around the map and wait for enemies to spawn.
@@ -38,7 +38,7 @@ Level system consists of the following stages, ordered:
 - Whenever you reach to level 1000+your current resurrection, your resurrection increases by 1. If you have, for instance, resurrection 5, you need 1005 levels in order to get to resurrection 6.
 
 ### Weapons and Magic
-Available weapons will entirely depend on your level and resurrection. As such, sword is available for starters, and you gain new weapons as you level up.
+Available weapons will entirely depend on your level and resurrection. As such, **sword** is available for starters, and you gain new weapons as you level up.
 
 The game also offers magic spells. For starters, there are no available spells. As you level up, you will gain more and more spells.
 - You need a certain amount of magic energy to be able to cast a spell. The amount of magic energy require is different for each spell. Magic energy is gained by killing enemies just as the case of the level.

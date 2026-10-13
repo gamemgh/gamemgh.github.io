@@ -2,6 +2,54 @@
 title = "Multi Games Hoard Changes"
 +++
 # Multi Games Hoard Changes
+## New in Version 0.1.8 (Build 2026.10.13)
+MGH has reached 2 years of launching.
+
+### General Changes
+- Changed the game to a new sound system. Please report any bugs as they become available.
+- Finally, a long waited possibility. UI Form dialogs now support touch gestures! Swipe left and right to navigate controls. In a list, a slider, or a spin field, swipe up and down to navigate or move through item / value, swipe up and down with 2 fingers to move to the beginning / minimum and the end / maximum. Double tap to activate a primary control, a button, toggle checkbox, and toggle selected status in a multiselection list.
+- Rotation system has been redesigned to add in-depth detail tracking, for example, "above 2 m, 4 m to the left, 8 m in front".
+- Added navigation sounds to form dialogs. Disabled by default.
+- Form dialogs now carry typing sounds also into fields like Search and Go to Line dialogs.
+- Improved form tab controls. They now behave like a list when navigating.
+- You can now view the current update information.
+- The game now pronounces the loss numbers as intended, "lost 1" instead of "lost -1".
+- Store now informs you of how much currency you have. Thanks "Tew Hong Jun" for the suggestion.
+- The game is now non blocking, meaning if you are in a menu, the game will still play.
+- Improved Windows update extraction layer.
+- Test speaker now uses fading method instead of just stopping the sound at once. In addition, it now tells the direction from which it is coming.
+- You can now press `F1` on form controls to get additional help. Not available on all controls.
+- Settings dialog is now more detailed, including unit selection.
+- Added "Behind pitch decrease" option under Audio category in settings, turned off by default.
+- Prefer unit system can now be set on Android settings.
+- You can now force showing the settings dialog as a menu just like on Android. A new option is added for this.
+- Removed menu music.
+- Every menu is now using the new menu system. The old menu system has been completely removed.
+
+### Changes for "Run for Your CHOCOLATES"
+- Removed "Patricus Meow", "Kannadiga", "Mochi" and "DJ" voices due to their formal requests and consent.
+- You can now purchase items in the store located in the actions menu. Please note that all the items you purchase will be cleared upon the completion of the game, so just purchase only the amount you need. Thanks ""Mochi" for the suggestion.
+- Each chocolate now weighs 130 grams, about 0.29 pounds.
+- Chocolate makers are now more intelligent, especially in movement towards you.
+- Chocolate maker information field in the settings is now more descriptive.
+- You can now press `F1` on the voices list in the settings to review information about available voices.
+- You can now open author's URL of the focused chocolate maker directly from RFC's settings if they have one.
+- Chocolate maker detecting nearby chocolates is now only 50 percent chance.
+- You can no longer spam throwing fireballs. It now takes 300 milliseconds (0.3 seconds) before you can use again.
+- Updated chocolate maker configurations.
+
+### Changes for "Endless Battle"
+- Fixed the bug where Pressing `Z` to check the status of weapons without ammo is not properly spoken. Thanks "Pavel Vlček".
+- Fixed the bug where "Play Item Loop Sounds" option in the settings fails to save, causing the system to always asume the option is enabled. Thanks "The Blind Night" for the bug report.
+- Improved enemy pathfinding.
+- Improved overall performance with magic spells.
+- When using health potion, your health no longer increases instantly like a magic. Instead, it will slowly increase, which takes about 6 and a half seconds.
+
+### Changes for "Archery"
+- Added randomized comments that tell you if you get 10 points each shot.
+- The maximum points that you can gain each shot is now 15.
+- The maximum multiplier you will gain is now 200, not 10.
+
 ## New in Version 0.1.7 (Build 2026.05.14)
 ### General Changes
 - Improved menus and buffer.

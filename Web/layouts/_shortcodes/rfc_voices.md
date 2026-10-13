@@ -11,8 +11,7 @@
 	{{- $name := .name -}}
 	{{- $author := .author -}}
 	{{- $url := .author_url -}}
-
-{{- if and $url $author (ne $name $author) }}
+	{{- if and $url $author (ne $name $author) }}
 - {{ $name }}: by [{{ $author }}]({{ $url }})
 {{- else if $url }}
 - [{{ $name }}]({{ $url }})

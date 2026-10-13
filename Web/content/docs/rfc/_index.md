@@ -14,6 +14,7 @@ Chocolate makers are fully voice acted.
 
 ## Features
 Run for Your CHOCOLATES advertises the following features:
+
 - Gain in-game currency which can be used across all the games to purchase and exchange items.
 - Randomized time limits, from 1 (one) minute to 5 (five) minutes.
 - 80 to 200 times the money worth your total number of collected chocolates, with 20 percent possibility to gain multiplier addition.
@@ -24,6 +25,7 @@ Run for Your CHOCOLATES advertises the following features:
 
 ## Adding a new chocolate maker
 If you want to add your voice to the game:
+
 1. Record the following sounds. These sounds can be an mp3 or an ogg file, and is recommended to zip the contents before sending:
 	- One or more sounds for the loop, meaning the sound they make that you can be heard nearby. For them, name like 1, 2, 3.
 	- One or more sounds when you stepped on the chocolate maker. For this, name like hit1, hit2, hit3.

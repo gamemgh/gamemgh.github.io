@@ -13,14 +13,15 @@ When you finished round 10 (final round) with at least 25 points, you will get r
 
 You have 3 shots on each round. With each shot this number will decrease. Once this number goes to 0, the round ends.
 
-If you get more than or equal to the points required for that round, you win. Otherwise, you lose. Each shot can score you with the maximum of 10 points. Thus, hitting the exact target 3 times would give you 30 points.
+If you get more than or equal to the points required for that round, you win. Otherwise, you lose. Each shot can score you with the maximum of 15 points. Thus, hitting the exact target 3 times would give you 45 points.
 
 ## Features
 Archery advertises the following features:
+
 - Gain in-game currency which can be used across all the games to purchase and exchange items.
 - 10 rounds, 16 points minimum.
-- Maximum 10 points per shot, with each round being 3 shots available.
+- Maximum 15 points per shot, with each round being 3 shots available.
 - Faster speeds and higher points as the round increases.
-- 1 to 10 times the money worth your total points, with luck dependent as it is randomized.
+- 1 to 200 times the money worth your total points, with luck dependent as it is randomized.
 - Headphone is required. Otherwise, it is nearly impossible to hit your target since you may not know if the Plane is in front of you.
 - Keyboard is not required; gestures fully supported.

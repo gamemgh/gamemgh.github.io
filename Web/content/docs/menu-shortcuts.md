@@ -12,7 +12,7 @@ weight = 10
 	- Down swipe on Android.
 - `Spacebar`: Toggles checkbox, list items etc.
 	- Two fingers double tap on Android.
-- `Enter`: Activates the menu item, list, etc.
+- `Enter`: Activates the menu item, list, check / uncheck, etc.
 	- One finger double tap on Android.
 - `Escape`: Quits the menu.
 	- Back button on Android.

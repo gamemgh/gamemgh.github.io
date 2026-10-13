@@ -10,6 +10,7 @@ aliases = ["endless-battle/about"]
 
 ## Features
 Endless Battle advertises the following features:
+
 - 3D: Play the game in an environment with 3D support. As such, enemies are likely to appear from all side.
 - The higher your resurrection gets, the new and new weapons you will get.
 - Purchase extra healing items to prevent your loss through in-game currency gained by either killing enemies or playing other mini games like Blackjack to get in-game currency.
@@ -26,6 +27,7 @@ Endless Battle advertises the following features:
 When you click the game, it will ask you to select the map you want to play on. For starters, usually **main** map is the only available option. Select it.
 
 Once the game is loaded:
+
 - Move around the map and wait for enemies to spawn.
 - Select the weapon you wish to use, and shoot down approaching enemies. Please view the [shortcuts list]({{% ref "shortcuts.md" %}}) for a list of shortcuts.
 - You automatically level up as you kill enemies.
@@ -33,6 +35,7 @@ Once the game is loaded:
 
 ### Level System
 Level system consists of the following stages, ordered:
+
 - You gain experience points by killing enemies.
 - The gained experience points are used to reach to a new level. Each level requires a certain amount of experience points. As you get higher levels, the amount of required experience points required to reach to a new level increases.
 - Whenever you reach to level 1000+your current resurrection, your resurrection increases by 1. If you have, for instance, resurrection 5, you need 1005 levels in order to get to resurrection 6.
@@ -41,5 +44,6 @@ Level system consists of the following stages, ordered:
 Available weapons will entirely depend on your level and resurrection. As such, **sword** is available for starters, and you gain new weapons as you level up.
 
 The game also offers magic spells. For starters, there are no available spells. As you level up, you will gain more and more spells.
+
 - You need a certain amount of magic energy to be able to cast a spell. The amount of magic energy require is different for each spell. Magic energy is gained by killing enemies just as the case of the level.
 - Review the shortcuts list for the shortcut that brings the magic spells menu.

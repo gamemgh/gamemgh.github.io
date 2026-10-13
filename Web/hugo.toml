@@ -1,4 +1,3 @@
-cleanDestinationDir = true
 publishDir = "HTML"
 title = "Multi Games Hoard"
 baseURL = "https://gamemgh.github.io"
@@ -7,3 +6,6 @@ theme = "hguinav"
 	category = "categories"
 	tag = "tags"
 	author = "authors"
+[build]
+	[build.cleanDestinationDir]
+		enable = true
